@@ -12,7 +12,7 @@ toc:
     slug: technical_spec 
 ---
 
-# Welcome
+## Welcome
 
 Welcome to the Tokyo.Cards Documentation !
 
