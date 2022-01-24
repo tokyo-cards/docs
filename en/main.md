@@ -3,10 +3,15 @@ title: Home
 slug: main
 toc:
   - name: Introduction
+    slug: introduction
   - name: Card Types 
+    slug: card_types 
   - name: Classes 
+    slug: classes 
   - name: Rarities 
+    slug: rarities 
   - name: Supported BlockChains 
+    slug: supported_blockchains 
 ---
 
 # Welcome
