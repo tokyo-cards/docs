@@ -8,8 +8,8 @@ toc:
     slug: collectables 
   - name: Classes 
     slug: classes 
-  - name: Technology 
-    slug: technology 
+  - name: Technical Spec 
+    slug: technical_spec 
 ---
 
 # Welcome
