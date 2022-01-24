@@ -8,6 +8,8 @@ toc:
     slug: collectables 
   - name: Classes 
     slug: classes 
+  - name: Markets 
+    slug: markets 
   - name: Technical Spec 
     slug: technical_spec 
 ---
