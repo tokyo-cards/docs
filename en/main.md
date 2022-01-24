@@ -6,7 +6,7 @@ title: Home
 
 Welcome to the Tokyo.Cards Documentation !
 
-The definitive wiki resource for (x)3 Collectables, and other collections developed by Tokyo Cards.
+The definitive wiki resource for (x)³™ Collectables, and other collections developed by Tokyo Cards.
 
 
 ## Table of Contents 
