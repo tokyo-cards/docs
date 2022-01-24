@@ -12,7 +12,13 @@ The definitive wiki resource for (x)³™ Collectables, and other collections de
 ## Table of Contents 
 
 - Introduction 
+
 - Card Types
   - Primals
+    - Iordiums
   - Non-Primals
-- Traits
+    - Akki's Deck
+
+- Classes
+  - Enchanter
+  - Disenchanter
