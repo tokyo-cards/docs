@@ -6,7 +6,7 @@ title: Home
 
 Welcome to the Tokyo.Cards Documentation !
 
-The definitive wiki resource for League of Legends, Teamfight Tactics, Legends of Runeterra, and other games developed by Riot Games.
+The definitive wiki resource for (x)3 Collectables, and other collections developed by Tokyo Cards.
 
 
 ## Table of Contents 
