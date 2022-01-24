@@ -3,15 +3,13 @@ title: Home
 slug: main
 toc:
   - name: Introduction
-    slug: introduction
-  - name: Card Types 
-    slug: card_types 
+    slug: main 
+  - name: Collectables 
+    slug: collectables 
   - name: Classes 
     slug: classes 
-  - name: Rarities 
-    slug: rarities 
-  - name: Supported BlockChains 
-    slug: supported_blockchains 
+  - name: Technology 
+    slug: technology 
 ---
 
 # Welcome
@@ -19,3 +17,5 @@ toc:
 Welcome to the Tokyo.Cards Documentation !
 
 The definitive wiki resource for (X)³™ Collectables, and other collections developed by Tokyo Cards.
+
+## Introduction
