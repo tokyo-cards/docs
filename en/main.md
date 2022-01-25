@@ -13,8 +13,8 @@ toc:
   - name: Technical Spec 
     slug: technical_spec 
 next: 
-  - name: Collectables
-    slug: collectables 
+   name: Collectables
+   slug: collectables 
 ---
 
 # Welcome
