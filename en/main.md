@@ -12,7 +12,9 @@ toc:
     slug: markets 
   - name: Technical Spec 
     slug: technical_spec 
-next: collectables
+next: 
+  - name: Collectables
+  - slug: collectables 
 ---
 
 # Welcome
