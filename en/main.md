@@ -26,6 +26,7 @@ Tokyo.Cards is a decentralized organization that dedicates itself to the cause o
 ## What we are 
 We believe, __public blockchain__ applications will gradually take over the majority of the internet as we know today. And we want to be apart of this movement towards Web 3.0.
 
-## What we aren't
-1. We do not create useless pictures and trick people into buying them.
-2. We do not run any service that is not realated to businesses in the real world.
+## What 'we' aren't
+0. There is no 'we', 'us' or any other narrative that represent this entity. All parties involved in this an individual.
+1. This entity do not create useless pictures and trick people into buying them.
+2. This entity do not run any service that is not realated to businesses in the real world.
