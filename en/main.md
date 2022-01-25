@@ -14,7 +14,7 @@ toc:
     slug: technical_spec 
 next: 
   - name: Collectables
-  - slug: collectables 
+    slug: collectables 
 ---
 
 # Welcome
