@@ -12,6 +12,9 @@ toc:
     slug: markets 
   - name: Technical Spec 
     slug: technical_spec 
+next: 
+   name: Classes 
+   slug: classes 
 ---
 
 # __(X)³™__ Collectables
