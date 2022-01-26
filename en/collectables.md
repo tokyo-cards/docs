@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Collectables
 slug: collectables
 toc:
   - name: Introduction
@@ -17,10 +17,23 @@ toc:
 # __(X)³™__ Collectables
 
 ## The Name
-__(X)³™__ is the name of the collection that Tokyo.Cards issues. __X__ represents any possible things in the world. With the mathmatical function __(X)³__, it means __anything raised to the third power__, representing our idea that
+__(X)³™__ is the name of the collection that Tokyo.Cards issues. __X__ represents any possible things in the world. With the mathmatical function __(X)³__, it means __anything raised to the third power__, representing the collective individuals' idea that
 
 > Anything will rise to power when combined with Web3.
 
 ## The Cards
-__(X)³™__ collections have __Two__ Types of Cards: __Primals__ and __Non-Primals__.
+__(X)³™__ collections have __Two__ Types of Cards: __Primals__ and __Non-Primals__. Primals and Non-Primals can be converted from one to another via __Enchanting__ and __Disenchanting__. __Non-Primal Cards__ always caters to a certain theme no matter it is for a Photographer, a musician or anyother from of art. __Non-Primal Cards__ are obtainable through initial sale events, while __Primal Cards__ can only be obtained through __Disenchanting__ the __Primal Cards__.
 
+### The Non-Primals
+See [Non-Primals](#The Name)
+
+### The Primals
+See [Primals](#Primals)
+
+
+## The Mintables
+Legendary Items
+
+
+## Legendary Items
+Legendary Items
