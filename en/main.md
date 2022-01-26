@@ -20,7 +20,7 @@ next:
 # Welcome
 Welcome to the Tokyo.Cards Documentation !
 
-The __definitive__ wiki resource for __(X)³™__ Collectables, and other DApps that are developed by Tokyo Cards.
+The __definitive__ wiki resource for __(X)³™__ Collectables, and other DApps that are developed by Tokyo.Cards.
 
 # Introduction
 Tokyo.Cards is a decentralized organization that dedicates itself to the cause of bringing more Web 3.0 applications into real life. The organization is named after Tokyo, the capital city of Japan, for Tokyo being one of the siginificant cities that has a "cyberpunk" vibe.
