@@ -1,4 +1,3 @@
-
 ---
 title: Collectables
 slug: collectables
