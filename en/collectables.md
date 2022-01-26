@@ -1,3 +1,4 @@
+
 ---
 title: Collectables
 slug: collectables
@@ -21,7 +22,12 @@ __(X)³™__ is the name of the collection that Tokyo.Cards issues. __X__ repres
 
 > Anything will rise to power when combined with Web3.
 
-## Five Types of Collectables
+## Three Types of Collectables
+Three types of Collectables are available, those are:
+
+1. The Cards
+2. The Mintables
+3. Artifact Items
 
 
 ## The Cards
@@ -33,7 +39,11 @@ Primal Cards and Non-Primal Cards are the two basic types of cards within the __
 For more details, see [Primals](#Primals) and [Non-Primals](#Non_primal)
 
 ## The Mintables
+Users will be able to mint some of the items under certain conditions. 
 
+For more details about mintable items, see [Mintables](#mintable)
 
-## Legendary Items
-Legendary Items
+## Artifact Items
+Artifact Items are extremely hard to obtain. It does NOT necessarily mean it costs a much money. But rather Artifact Items are only obtainable by __enchanting__. Artifact Items are also very powerful. They enables holders of those items capable of doing others can't.
+
+For more details about __Artifact Items__, see [Rarity - Artifact](#Artifact) 
