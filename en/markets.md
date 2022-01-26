@@ -10,33 +10,29 @@ toc:
     slug: classes 
   - name: Markets 
     slug: markets 
-  - name: Tech Spec 
-    slug: tech_spec 
-next: 
-   name: Tech Spec 
-   slug: tech_spec
-previous: 
-   name: Classes 
-   slug: classes 
+  - name: Technical Spec 
+    slug: technical_spec 
 ---
 
-# Classes 
-Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading Skills__ are obtained only by possessing certain __Artifact Items__. In the __Current Version__ of Tokyo.Cards, there are two classes: __Enchanter__ and __Disenchanter__.
+# Markets
+Cards are obtainable at the following locations:
+1. Tokyo.Cards Website (https://tokyo.cards)
+2. Adam by GMO (https://adam.jp)
+3. Opensea (https://opensea.io)
 
-## Disenchanter 
-Disenchanters are holders of [[Item: Wand of Acky]](EnchantersStaff), an Artifact Item that can only be obtained when an individual posses one single set of [[Deck: Acky's Deck]](AkkiDeck). The individual will be able to freeze his/hers card set and obtain [[Item: Wand of Acky]](EnchantersStaff) in exchange.
+## Initial Sales / Primary Market
+### Tokyo.Cards Website and Lootboxes
+Initial Sales are available on Tokyo.Cards Website. Cards are obtainable by purchasing [[Lootboxes]](lootbox) and [[Unpacking]](unpacking) them.  Although a user can always re-sell the lootbox on Secondary Markets like Opensea. It will probably more expensive than the initial sales price.  
+> __Please Note:__ Lootboxes are only purchasable with cryptos on the __Polygon__ Blockchain.
 
-And only those who posses [[Item: Wand of Acky]](EnchantersStaff) can perform [[Trading Skill: Disenchant]](enchant). Visit the link on [[Trading Skill: Dienchant]](enchant) for more details.
+### Adam by GMO
+Adam.jp is a partner of Tokyo.Cards. Adam.jp is under the umbrella of [GMO](https://www.gmo.jp/en/), a listed company in Tokyo. Adam.jp is a regulated fiat NFT market. Tokyo.Cards are obtainable by purchasing with fixed price orders. 
+> __Please Note:__ Cards are only purchasable with fiat / ethereum on the Ethereum Blockchain with Adam.jp
 
-For more information visit [[Class: Disechanter]](Enchanter).
+## Secondary Market
+It is also possible to buy and sell the cards on secondary markets as follows:
+1. Opensea (Opensea.io)
+2. Adam by GMO (Adam.jp)
 
-## Enchanter 
-On the opposite, Disenchanters are holders of [[Item: Wand of the Forsaken Priest]](WandOfTheForsakenPriest), an Artifact Item that can only be obtained when an individual posses all four of the following items:
-- [[Card: Scarlet Iordium Orb]](IordiumOrb)
-- [[Card: Violet Iordium Orb]](IordiumOrb)
-- [[Card: Lima Iordium Orb]](IordiumOrb)
-- [[Card: Arcane Iordium Orb]](IordiumOrb)
-
-The Individual will be able to freeze his/her card set and obtain [[Item: Wand of the Forsaken Priest]](wandfo) in return.
-
-And only those who posses  [[Item: Wand of the Forsaken Priest]](wandfo) can perform [[Trading Skill: Enchant]](https://stackedit.io/enchant). Visit the link on [[Trading Skill: Enchant]](https://stackedit.io/enchant) for more details.
+Opensea is a free on-chain market that only accepts crypto and do not require KYC.
+Adam by GMO is a fiat / crypto market that requires KYC. 
