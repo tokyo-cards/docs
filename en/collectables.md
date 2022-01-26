@@ -15,6 +15,9 @@ toc:
 next: 
    name: Classes 
    slug: classes 
+previous: 
+   name: Introduction 
+   slug: main 
 ---
 
 # __(X)³™__ Collectables

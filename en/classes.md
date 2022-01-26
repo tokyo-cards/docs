@@ -1,6 +1,6 @@
 ---
-title: Home
-slug: main
+title: Classes
+slug: classes
 toc:
   - name: Introduction
     slug: main 
@@ -12,18 +12,31 @@ toc:
     slug: markets 
   - name: Technical Spec 
     slug: technical_spec 
+next: 
+   name: Markets
+   slug: markets
+previous: 
+   name: Collectables 
+   slug: collectables
 ---
 
-# Welcome
-Welcome to the Tokyo.Cards Documentation !
+# Classes 
+Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading Skills__ are obtained only by possessing certain __Artifact Items__. In the __Current Version__ of Tokyo.Cards, there are two classes: __Enchanter__ and __Disenchanter__.
 
-The definitive wiki resource for (X)³™ Collectables, and other collections developed by Tokyo Cards.
+## Disenchanter 
+Disenchanters are holders of [[Item: Wand of Acky]](EnchantersStaff), an Artifact Item that can only be obtained when an individual posses one single set of [[Deck: Acky's Deck]](AkkiDeck). The individual will be able to freeze his/hers card set and obtain [[Item: Wand of Acky]](EnchantersStaff) in exchange.
 
-# Introduction
-Tokyo.Cards is a decentralized organization that dedicates itself to the cause of bringing more Web 3.0 applications into real life. The organization is named after Tokyo, the capital city of Japan, because of Tokyo being one of the siginificant cities that has a "cyberpunk" vibe.
+And only those who posses [[Item: Wand of Acky]](EnchantersStaff) can perform [[Trading Skill: Disenchant]](enchant). Visit the link on [[Trading Skill: Dienchant]](enchant) for more details.
 
-## What we are 
-Describe about the mission and vision
+For more information visit [[Class: Disechanter]](Enchanter).
 
-## What we aren't
-Describe about the stuff we hate to see. 
+## Enchanter 
+On the opposite, Disenchanters are holders of [[Item: Wand of the Forsaken Priest]](WandOfTheForsakenPriest), an Artifact Item that can only be obtained when an individual posses all four of the following items:
+- [[Card: Scarlet Iordium Orb]](IordiumOrb)
+- [[Card: Violet Iordium Orb]](IordiumOrb)
+- [[Card: Lima Iordium Orb]](IordiumOrb)
+- [[Card: Arcane Iordium Orb]](IordiumOrb)
+
+The Individual will be able to freeze his/her card set and obtain [[Item: Wand of the Forsaken Priest]](wandfo) in return.
+
+And only those who posses  [[Item: Wand of the Forsaken Priest]](wandfo) can perform [[Trading Skill: Enchant]](https://stackedit.io/enchant). Visit the link on [[Trading Skill: Enchant]](https://stackedit.io/enchant) for more details.
