@@ -1,6 +1,6 @@
 ---
-title: Home
-slug: main
+title: Tech Spec 
+slug: tech_spec
 toc:
   - name: Introduction
     slug: main 
@@ -10,20 +10,25 @@ toc:
     slug: classes 
   - name: Markets 
     slug: markets 
-  - name: Technical Spec 
-    slug: technical_spec 
+  - name: Tech Spec 
+    slug: tech_spec 
 ---
 
-# Welcome
-Welcome to the Tokyo.Cards Documentation !
+# Technical Spec
+The technical Specs of the NFTs.
 
-The definitive wiki resource for (X)³™ Collectables, and other collections developed by Tokyo Cards.
+## Networks and Contracts
+Tokyo.Cards is avaliable on `Ethereum`, `Polygon` and `Binance Smart Chain`, with the following addresses.
 
-# Introduction
-Tokyo.Cards is a decentralized organization that dedicates itself to the cause of bringing more Web 3.0 applications into real life. The organization is named after Tokyo, the capital city of Japan, because of Tokyo being one of the siginificant cities that has a "cyberpunk" vibe.
+- Ethereum (1155): `0xf8ceca438577a00b415b1d4b412a910bf2e41bea`
+- Ethereum (721) (Adam.jp): `0xb30fC2D754C88c451275b743b6F530F19f643683`
+- Polygon (1155): `0xd4702deF69eA0083Ab9949b87708Ce0f4357bE1b`
+- Binance Smart Chain (1155): `0x364BDdcc00B10e8526998F2B81cFC8Db62bE671a`
 
-## What we are 
-Describe about the mission and vision
+## Why is there a contract deployed by adam.jp ?
+Adam.jp, has it's own smart contract. Actually, all NFTs that are sold on Adam.jp shares the same ERC721 Smart Contract Address. Meanwhile, the team is working on a way to convert the ERC721 contract to the ERC1155.
 
-## What we aren't
-Describe about the stuff we hate to see. 
+## Cross Chain Transactions (Implementing)
+The team is also working on a bridge at [Connext](https://connext.network/).
+Most of our transactions exists on Polygon simply because of it's more cheaper than the Ethereum Mainnet.
+And in the future, we are looking at Solana and EVM compaticable Polkadot Sidechains.
