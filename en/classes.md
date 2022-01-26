@@ -10,8 +10,8 @@ toc:
     slug: classes 
   - name: Markets 
     slug: markets 
-  - name: Technical Spec 
-    slug: technical_spec 
+  - name: Tech Spec 
+    slug: tech_spec 
 next: 
    name: Markets
    slug: markets
