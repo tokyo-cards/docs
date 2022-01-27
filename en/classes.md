@@ -32,10 +32,10 @@ For more information visit [[Class: Disechanter]](Enchanter).
 
 ## Enchanter 
 On the opposite, Disenchanters are holders of [[Item: Wand of the Forsaken Priest]](WandOfTheForsakenPriest), an Artifact Item that can only be obtained when an individual posses all four of the following items:
-- [[Card: Scarlet Iordium Orb]](IordiumOrb)
-- [[Card: Violet Iordium Orb]](IordiumOrb)
-- [[Card: Lima Iordium Orb]](IordiumOrb)
-- [[Card: Arcane Iordium Orb]](IordiumOrb)
+- [[Card: Scarlet Iordium Orb]](https://tokyo.cards/items/?id=2931&asset_type=card&lang=en)
+- [[Card: Violet Iordium Orb]](https://tokyo.cards/items/?id=2929&asset_type=card&lang=en)
+- [[Card: Lima Iordium Orb]](https://tokyo.cards/items/?id=2930&asset_type=card&lang=en)
+- [[Card: Arcane Iordium Orb]](https://tokyo.cards/items/?id=2928&asset_type=card&lang=en)
 
 The Individual will be able to freeze his/her card set and obtain [[Item: Wand of the Forsaken Priest]](wandfo) in return.
 
