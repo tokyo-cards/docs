@@ -31,7 +31,7 @@ And only those who posses [[Item: Wand of Acky]](EnchantersStaff) can perform [[
 For more information visit [[Class: Disechanter]](Enchanter).
 
 ## Enchanter 
-On the opposite, Disenchanters are holders of [[Item: Wand of the Forsaken Priest]](WandOfTheForsakenPriest), an Artifact Item that can only be obtained when an individual posses all four of the following items:
+On the opposite, Enchanters are holders of [[Item: Wand of the Forsaken Priest]](WandOfTheForsakenPriest), an Artifact Item that can only be obtained when an individual posses all four of the following items:
 - [[Card: Scarlet Iordium Orb]](https://tokyo.cards/items/?id=2931&asset_type=card&lang=en)
 - [[Card: Violet Iordium Orb]](https://tokyo.cards/items/?id=2929&asset_type=card&lang=en)
 - [[Card: Lima Iordium Orb]](https://tokyo.cards/items/?id=2930&asset_type=card&lang=en)
