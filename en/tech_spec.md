@@ -35,4 +35,4 @@ Adam.jp, has it's own smart contract. Actually, all NFTs that are sold on Adam.j
 ## Cross Chain Transactions (Implementing)
 The team is also working on a bridge at [Connext](https://connext.network/).
 Most of our transactions exists on Polygon simply because of it's more cheaper than the Ethereum Mainnet.
-And in the future, we are looking at Solana and EVM compaticable Polkadot Sidechains.
+And in the future, we are looking at Solana and EVM compatible Polkadot Sidechains.
