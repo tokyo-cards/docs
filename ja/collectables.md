@@ -67,7 +67,15 @@ Tokyo.Cardsのカードコレクションは、[Collections]() ページで一�
 ミンタブルズのアイテム詳細については、[Mintables](#mintable)までご参照ください。
 
 
-## Artifact Items
-Artifact Items are extremely hard to obtain. It does NOT necessarily mean it costs a much money. But rather Artifact Items are only obtainable by __enchanting__. Artifact Items are also very powerful. They enables holders of those items capable of doing others can't.
+## アーチファクトアイタム
+アーチファクトアイテムは非常にレアで簡単に手に入れません。
 
-For more details about __Artifact Items__, see [Rarity - Artifact](#Artifact) 
+非常に費用がかかるわけではありません。
+
+だたし __エンチャンティング（魔法かけ）__ でしか取得できないゆえ、
+
+希少でありながらアーチファクトアイテムは強力なアイテムでもあります。
+
+所有することで一般人ができないことは所有者には可能となります。
+
+__アーチファクトアイテム__ の詳細は [Rarity - Artifact](#Artifact) ページまでご参照ください。
