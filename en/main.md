@@ -30,5 +30,5 @@ The collective individuals in Tokyo.Cards believe, __public__ blockchain applica
 
 ## What _'this'_ isn't ? 
 0. There is no __'we'__, __'us'__ or __ANY__ other narrative that represent this entity. All parties involved reserves its own individuality.
-1. This entity do not create useless pictures and trick people into buying them.
-2. This entity do not run __ANY__ service that is not realated to businesses in the real world.
+1. This entity does not create useless pictures and trick people into buying them.
+2. This entity does not run __ANY__ service that is not related to businesses in the real world.
