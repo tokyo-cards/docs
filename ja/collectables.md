@@ -38,25 +38,34 @@ Tokyo.Cards同志たちの
 下記３種類のコレクタブルが存在しています。
 
 1. カード
-2. The Mintables
+2. ミンタブルズ
 3. アーチファクトアイテム
 
 
 ## カード
-__(X)³™__ コレクションは __２__ 種類のカードがあります； __Primals__ and __Non-Primals__. Primals and Non-Primals can be converted from one to another via __Enchanting__ and __Disenchanting__. __Non-Primal Cards__ always caters to a certain theme no matter it is for a Photographer, a musician or anyother from of art. __Non-Primal Cards__ are obtainable through initial sale events, while __Primal Cards__ can only be obtained through __Disenchanting__ the __Non-Primal Cards__.
+__(X)³™__ コレクションは __プライマル__ と __ノンプライマル__ と __２__ 種類のカードがあります。
 
-Checkout the [Collections]() Page to see Tokyo.Cards' Card Collections
+この２種類のカードは __エンチャンティング（魔法かけ）__ や __ディスエンチャンティング（魔法とけ）__ で相互変換可能です。
+
+__ノンプライマル__ カードは常に一定のテーマ（写真家、音楽家、またはいずれの芸術品）が用いられ、イニシャル販売イベントで入手可能です。
+
+__プライマル__ カードはノンプライマルカードを __ディスエンチャンティング（魔法とけ）__ することが入手する唯一の方法です。
 
 
-#### The Non-Primals and Primals
-Primal Cards and Non-Primal Cards are the two basic types of cards within the __(X)³™__ Collectables.
+Tokyo.Cardsのカードコレクションは、[Collections]() ページで一覧できます。
 
-For more details, see [Primals](#Primals) and [Non-Primals](#Non_primal)
 
-## The Mintables
-Users will be able to mint some of the items under certain conditions. 
+#### ノンプライマルとプライマル
 
-For more details about mintable items, see [Mintables](#mintable)
+プライマルカートとノンプライマルカードは __(X)³™__ コレクションにおいて大まかに２種類に分かれたカードです。
+
+それぞれの詳細は、[Primals](#Primals) と [Non-Primals](#Non_primal) までご参照ください。
+
+## ミンタブルズ
+ユーザーは一定の条件においてアイムをミントすることができます。
+
+ミンタブルズのアイテム詳細については、[Mintables](#mintable)までご参照ください。
+
 
 ## Artifact Items
 Artifact Items are extremely hard to obtain. It does NOT necessarily mean it costs a much money. But rather Artifact Items are only obtainable by __enchanting__. Artifact Items are also very powerful. They enables holders of those items capable of doing others can't.
