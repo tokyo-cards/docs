@@ -54,4 +54,5 @@ Adam.jpは東京一部上場の会社[GMO](https://www.gmo.jp/en/)の傘下に�
 2. Adam by GMO (Adam.jp)
 
 Openseaは暗号通貨のみ扱うブロックチェンに存在し、KYC不要な自由のマーケットです。
+
 Adam by GMOはKYC認証の前提で、法定通貨と暗号通貨と両方も対応できるマーケットです。 
