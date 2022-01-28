@@ -29,7 +29,7 @@ Tokyo.Cards is a decentralized organization that dedicates itself to the cause o
 The collective individuals in Tokyo.Cards believe, __public__ blockchain applications will gradually take over the majority of the internet as is known today. In order to be a part of the moment, the collective individuals came together to summon this entitiy from the void. And this entity is going to issue  __[(X)³™ Collectables](/wiki/?slug=collectables&lang=en)__ , an _NFT (Non-Fungiable Token)_. The __(X)³™__ is closely tied to realworld business, so that the _holders_ will be able to enjoy various benefits as a return.
 
 ## What _'this'_ isn't ? 
-0. There is no __'we'__, __'us'__ or __ANY__ other narrative that represent this entity. All parties involved reserves its own individuality.
+0. There is no __'we'__, __'us'__ or __ANY other person__ that represents this entity. All stackholders have their own individuality.
 1. This entity does not create useless pictures and trick people into buying them.
 2. This entity does not run __ANY__ service that is not related to businesses in the real world.
 
