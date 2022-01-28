@@ -1,3 +1,18 @@
+---
+title: Primals 
+slug: /collectables/primals 
+toc:
+  - name: Primals
+    slug: /collectables/primals 
+  - name: Non-Primals 
+    slug: /collectables/non_primals
+  - name: Rarity 
+    slug: /collectables/rarity
+next: 
+   name: Non-Primals
+   slug: /collectables/non_primals
+---
+
 # Primals
 There are 16 and __ONLY__ 16 different primal cards in Tokyo.Cards. They are categorized into 4 different colors and 4 different sizes.
 
