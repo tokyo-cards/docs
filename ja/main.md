@@ -20,7 +20,7 @@ next:
 # ようこそ
 Tokyo.Cards ドキュメンテーションへようこそ !
 
-東京カードが開発した __(X)³™__ Collectablesやその他のDAppsの __最も信頼できる__ ウイキー情報源です。
+東京カードが開発した __[(X)³™ Collectables](/wiki/?slug=collectables&lang=ja)__ やその他のDAppsの __最も信頼できる__ ウイキー情報源です。
 
 # 初めに
 Tokyo.Cardsは、Web 3.0アプリケーションをより一層人々の生活に普及することを目指す分散型組織です。
@@ -32,7 +32,7 @@ Tokyo.Cardsのメンバーは、我々が知っている現在インターネッ
 
 その流行れに乗りべく、同志を集め、このエンティティを虚空から召喚しました。
 
-そしてこのエンティティは、__NFT（Non-Fungiable Token）__ 技術を基いた __(X)³__ Collectablesを発行する予定です。
+そしてこのエンティティは、__NFT（Non-Fungiable Token）__ 技術を基いた __[(X)³™ Collectables](/wiki/?slug=collectables&lang=ja)__ を発行する予定です。
 
 __(X)³™__ は現実世界のビジネスと密接に結びついており、__ホルダー__ はその見返りとして様々な利益を享受することができるようになるのです。
 
