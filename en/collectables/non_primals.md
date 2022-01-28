@@ -51,12 +51,13 @@ So, there exists 54 different versions __Two of Spades__, here are 2 of them:
 It's possible to obtain a single random Non-Primal Card from a lootbox on this website. Or it's possible to find a seconded hand one on Opensea.io
 
 [Portal to the Lootbox Page](/temple/?lang=en&tab=1) (Must Install Metamask)
+
 [Portal to the Opensea Page]() (Must Install Metamask)
 
 #### From Crafting 
 It's also possible to get one card from a [Card Forger](). A [Card Forger]() will help to [Forge]() a Non-Primal Card with 4 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
 
-Of course, the [Card Forger]() will be happy to collect a fee from it.
+Of course, the [Card Forger]() will be happy to collect a fee from doing so.
 
 For example:
 
@@ -68,3 +69,9 @@ For example:
 > A Card Forger will be able to Forge a random card of [Uncommon]() quality from a chosen card set.
 
 ### The Ethereum Network Version
+The Ethereum Network Version is only available from our Fiat NFT Exchange [Adam by GMO](https://adam.jp). It's possible to puchase a card from them and __withdraw__ into a person's private wallet. A swap contract will become available to swap their __ERC721__ contract to our __ERC1155__ version. 
+
+For more details, see [Technology Specs](/wiki/?slug=tech_spec&lang=en)
+
+#### What do I get from the Ethereum Network Version ?
+Anyone who successfully collects a full set of of cards with the same inscriptions, will be automatically granted [Gloves of the Forger](), which enables a person to froge Non-Primal Card with [Primals](/wiki/?slug=/collectables/primals&lang=en) at the highest level.
