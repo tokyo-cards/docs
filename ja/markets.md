@@ -1,23 +1,23 @@
 ---
-title: Markets
+title: マーケット
 slug: markets
 toc:
-  - name: Introduction
+  - name: 初めに 
     slug: main 
-  - name: Collectables 
+  - name: コレクション 
     slug: collectables 
-  - name: Classes 
+  - name: 職業クラス 
     slug: classes 
-  - name: Markets 
+  - name: マーケット 
     slug: markets 
-  - name: Tech Spec 
-    slug: tech_spec 
+  - name: 技術スペック 
+    slug: technical_spec 
 next: 
-   name: Tech Spec
-   slug: tech_spec
+   name: 技術スペック
+   slug: technical_spec 
 previous: 
-   name: Classes 
-   slug: classes
+   name: 職業クラス 
+   slug: classes 
 ---
 
 # マーケット
