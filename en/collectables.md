@@ -49,9 +49,9 @@ For more details, see [Primals](#Primals) and [Non-Primals](#Non_primal)
 ## The Mintables
 Users will be able to mint some of the items under certain conditions. 
 
-For more details about mintable items, see [Mintables](#mintable)
+For more details, see [Mintables](#mintable)
 
 ## Artifact Items
-Artifact Items are extremely hard to obtain. It does NOT necessarily mean it costs a much money. But rather Artifact Items are only obtainable by __enchanting__. Artifact Items are also very powerful. They enables holders of those items capable of doing others can't.
+Artifact Items are extremely hard to obtain. It does NOT necessarily mean it costs a much money, but Artifact Items are only obtainable by __enchanting__. Artifact Items are also very powerful. They make holders capable of doing something others can't.
 
-For more details about __Artifact Items__, see [Rarity - Artifact](#Artifact) 
+For more details, see [Rarity - Artifact](#Artifact) 
