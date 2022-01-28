@@ -36,3 +36,12 @@ Apart from the _"Normal"_ property of Poker Cards, there are also inscriptions i
 ### Total Unique Varieties 
 With all the Houses, Joker and Inscription, a single deck of Non-Primal Card collection has __((13 x 4) + 2) * 54 = 54 * 54 = 2916__ unique varieties.
 
+So, there exists 54 different versions __Two of Spades__, here are 2 of them:
+
+> With inscription: [い]
+> ::item[Two of Spades]{id=1 asset_type=card rarity=uncommon lang=en}
+
+> With inscription: [あ]
+> ::item[Two of Spades]{id=0 asset_type=card rarity=uncommon lang=en}
+
+## Obtaining the Non-Primals
