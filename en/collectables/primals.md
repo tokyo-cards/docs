@@ -16,6 +16,14 @@ next:
 # Primals
 There are 16 and __ONLY__ 16 different primal cards in Tokyo.Cards. They are categorized into 4 different colors and 4 different sizes.
 
+## The List of Primals:
+
+### The Motes:
+- ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
+- ::item[Violet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en} 
+- ::item[Lima Iordium Mote]{id=2918 asset_type=card rarity=uncommon lang=en} 
+- ::item[Scarlet Iordium Mote]{id=2919 asset_type=card rarity=uncommon lang=en} 
+
 ## The Colors Of the Primal Cards
 
 Primal Cards have the following colors:
@@ -32,10 +40,4 @@ Primal Cards have the following sizes and rarity:
 3. Core - Epic
 4. Orb - Legendary
 
-## The List of Primals:
 
-### The Motes:
-- ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
-- ::item[Violet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en} 
-- ::item[Lima Iordium Mote]{id=2918 asset_type=card rarity=uncommon lang=en} 
-- ::item[Scarlet Iordium Mote]{id=2919 asset_type=card rarity=uncommon lang=en} 
