@@ -36,13 +36,27 @@ Primal Cards have the following sizes:
 3. Core - From [Epic]() Non-Primal Cards
 4. Orb - From [Legendary]() Non- Primal Cards
 
-## Examples:
-
-With the information above, it's not hard to deduce that:
+For Example:
 
 > ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
 > _CAN_ be _Obtained_ by [Disenchanting]() a 
 > ::item[Two of Spades]{id=1 asset_type=card rarity=uncommon lang=en}
+
+## Combining / Upgrading
+
+With 10 of the lower tier primals, it's possible to forge a new upper tier primals.
+
+For Example:
+
+> With 10 of
+> ::item[Violet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en}
+> it's possible to create a 
+> ::item[Violet Iordium Shard]{id=2921 asset_type=card rarity=rare lang=en} 
+
+> With 10 of
+> ::item[Lima Iordium Shard]{id=2922 asset_type=card rarity=rare lang=en} 
+> it's possible to create a 
+> ::item[Lima Iordium Core]{id=2926 asset_type=card rarity=epic lang=en} 
 
 ## The List of Primals:
 
