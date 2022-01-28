@@ -20,7 +20,7 @@ Primal Cards have the following sizes and rarity:
 ## The List of Primals:
 
 ### The Motes:
-- ::item[Scarlet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en} 
-- Lima Iordium Mote
-- Violet Iordium Mote
-- Arcane Iordium Mote
+- ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
+- ::item[Violet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en} 
+- ::item[Lima Iordium Mote]{id=2918 asset_type=card rarity=uncommon lang=en} 
+- ::item[Scarlet Iordium Mote]{id=2919 asset_type=card rarity=uncommon lang=en} 
