@@ -1,19 +1,19 @@
 ---
-title: Tech Spec 
+title: 技術仕様
 slug: tech_spec
 toc:
-  - name: Introduction
+  - name: 初めに 
     slug: main 
-  - name: Collectables 
+  - name: コレクション 
     slug: collectables 
-  - name: Classes 
+  - name: 職業クラス 
     slug: classes 
-  - name: Markets 
+  - name: マーケット 
     slug: markets 
-  - name: Tech Spec 
-    slug: tech_spec
+  - name: 技術仕様 
+    slug: tech_spec 
 previous: 
-   name: Markets 
+   name: マーケット 
    slug: markets
 ---
 
