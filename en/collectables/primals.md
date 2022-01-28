@@ -24,6 +24,24 @@ There are 16 and __ONLY__ 16 different primal cards in Tokyo.Cards. They are cat
 - ::item[Lima Iordium Mote]{id=2918 asset_type=card rarity=uncommon lang=en} 
 - ::item[Scarlet Iordium Mote]{id=2919 asset_type=card rarity=uncommon lang=en} 
 
+### The Shards:
+- ::item[Arcane Iordium Shard]{id=2920 asset_type=card rarity=rare lang=en} 
+- ::item[Violet Iordium Shard]{id=2921 asset_type=card rarity=rare lang=en} 
+- ::item[Lima Iordium Shard]{id=2922 asset_type=card rarity=rare lang=en} 
+- ::item[Scarlet Iordium Shard]{id=2923 asset_type=card rarity=rare lang=en} 
+
+### The Cores:
+- ::item[Arcane Iordium Core]{id=2924 asset_type=card rarity=epic lang=en} 
+- ::item[Violet Iordium Core]{id=2925 asset_type=card rarity=epic lang=en} 
+- ::item[Lima Iordium Core]{id=2926 asset_type=card rarity=epic lang=en} 
+- ::item[Scarlet Iordium Core]{id=2927 asset_type=card rarity=epic lang=en} 
+
+### The Orbs:
+- ::item[Arcane Iordium Orb]{id=2928 asset_type=card rarity=legendary lang=en} 
+- ::item[Violet Iordium Orb]{id=2929 asset_type=card rarity=legendary lang=en} 
+- ::item[Lima Iordium Orb]{id=2930 asset_type=card rarity=legendary lang=en} 
+- ::item[Scarlet Iordium Orb]{id=2931 asset_type=card rarity=legendary lang=en} 
+
 ## The Colors Of the Primal Cards
 
 Primal Cards have the following colors:
