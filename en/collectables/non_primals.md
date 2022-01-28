@@ -19,3 +19,12 @@ previous:
 ---
 
 # Non-Primals
+
+
+## Introduction
+The nature / theme of the Non-Primal Cards are usually a reflection of that of the realworld business of the issuing entity.
+The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ __Akiho Yoshizawa__ by one of the producing company called Maxing.
+
+## Features of Non-Primal Cards
+Non-Primal Cards are __ALWAYS__ issued as Solidarity Poker Cards.
+
