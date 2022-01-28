@@ -34,5 +34,5 @@ Non-Primal Cards are __ALWAYS__ issued as _Solidarity Poker Cards_. Like all pok
 Apart from the _"Normal"_ property of Poker Cards, there are also inscriptions imprinted on each one of the cards. These, are the 54 Katakana of the Japanese Language. So, that added 54 different varieties to each one of the card.
 
 ### Total Unique Varieties 
-With all the Houses, Joker and Inscription, a single deck of Non-Primal Card collection has __((13 x 4) + 2) * 54__ = 54 * 54 = 2916 unique varieties.
+With all the Houses, Joker and Inscription, a single deck of Non-Primal Card collection has __((13 x 4) + 2) * 54 = 54 * 54 = 2916__ unique varieties.
 
