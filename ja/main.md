@@ -32,7 +32,7 @@ Tokyo.Cardsのメンバーは、__パブリック__ ブロックチェーンア�
 
 その流行れに乗るべく、同志を集め、このエンティティを虚空から召喚しました。
 
-そしてこのエンティティは、__NFT（Non-Fungiable Token）__ 技術に基いた __[(X)³™ Collectables](/wiki/?slug=collectables&lang=ja)__ を発行します。
+そしてこのエンティティは、__NFT（Non-Fungiable Token）__ 技術に基づいた __[(X)³™ Collectables](/wiki/?slug=collectables&lang=ja)__ を発行します。
 
 __(X)³™__ は現実世界のビジネスと密接に結びついており、__ホルダー__ の方はその見返りとして様々な利益を享受することが可能です。
 
