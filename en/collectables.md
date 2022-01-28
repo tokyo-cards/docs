@@ -44,7 +44,7 @@ Checkout the [Collections](/collections/?lang=en) Page to see Tokyo.Cards' Card 
 #### The Non-Primals and Primals
 Primal Cards and Non-Primal Cards are the two basic types of cards within the __(X)³™__ Collectables.
 
-For more details, see [Primals](#Primals) and [Non-Primals](#Non_primal)
+For more details, see [Primals](/wiki/?slug=/collectables/primals.md&lang=en) and [Non-Primals](#Non_primal)
 
 ## The Mintables
 Users will be able to mint some of the items under certain conditions. 
