@@ -47,9 +47,24 @@ So, there exists 54 different versions __Two of Spades__, here are 2 of them:
 ## Obtaining the Non-Primals
 
 ### The Polygon Network Version
+#### From Purchasing
 It's possible to obtain a single random Non-Primal Card from a lootbox on this website. Or it's possible to find a seconded hand one on Opensea.io
 
 [Portal to the Lootbox Page](/temple/?lang=en&tab=1) (Must Install Metamask)
 [Portal to the Opensea Page]() (Must Install Metamask)
 
- 
+#### From Crafting 
+It's also possible to get one card from a [Card Forger](). A [Card Forger]() will help to [Forge]() a Non-Primal Card with 4 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
+
+Of course, the [Card Forger]() will be happy to collect a fee from it.
+
+For example:
+
+> With the following 4 Primal Cards
+> ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
+> ::item[Violet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en} 
+> ::item[Lima Iordium Mote]{id=2918 asset_type=card rarity=uncommon lang=en} 
+> ::item[Scarlet Iordium Mote]{id=2919 asset_type=card rarity=uncommon lang=en} 
+> A Card Forger will be able to Forge a random card of [Uncommon]() quality from a chosen card set.
+
+### The Ethereum Network Version
