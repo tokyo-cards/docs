@@ -20,7 +20,7 @@ next:
 # ようこそ
 Tokyo.Cards ドキュメンテーションへようこそ !
 
-東京カードが開発した __[(X)³™ Collectables](/wiki/?slug=collectables&lang=ja)__ やその他のDAppsの __最も信頼できる__ ウイキー情報源です。
+Tokyo.Cardsが開発した __[(X)³™ Collectables](/wiki/?slug=collectables&lang=ja)__ やその他のDAppsの __最も信頼できる__ ウイキー情報源です。
 
 # 初めに
 Tokyo.Cardsは、Web 3.0アプリケーションをより一層人々の生活に普及することを目指す分散型組織です。
