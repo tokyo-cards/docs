@@ -1,22 +1,22 @@
 ---
-title: Collectables
+title: コレクション
 slug: collectables
 toc:
-  - name: Introduction
+  - name: 初めに 
     slug: main 
-  - name: Collectables 
+  - name: コレクション 
     slug: collectables 
-  - name: Classes 
+  - name: 職業クラス 
     slug: classes 
-  - name: Markets 
+  - name: マーケット 
     slug: markets 
-  - name: Tech Spec 
-    slug: tech_spec 
+  - name: 技術スペック 
+    slug: technical_spec 
 next: 
-   name: Classes 
+   name: 職業クラス
    slug: classes 
 previous: 
-   name: Introduction 
+   name: 初めに 
    slug: main 
 ---
 
