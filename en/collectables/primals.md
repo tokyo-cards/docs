@@ -40,7 +40,11 @@ Primal Cards have the following sizes:
 
 With the information above, it's not hard to deduce that:
 
-::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} _CAN_ be _Obtained_ by [Disenchanting]() A ::item[Two of Spades]{id=1 asset_type=card rarity=uncommon lang=en}
+::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
+
+_CAN_ be _Obtained_ by [Disenchanting]() a 
+
+::item[Two of Spades]{id=1 asset_type=card rarity=uncommon lang=en}
 
 ## The List of Primals:
 
