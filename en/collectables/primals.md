@@ -6,8 +6,6 @@ toc:
     slug: collectables 
   - name: Primals
     slug: /collectables/primals 
-  - name: Primals
-    slug: /collectables/primals 
   - name: Non-Primals 
     slug: /collectables/non_primals
   - name: Rarity 
