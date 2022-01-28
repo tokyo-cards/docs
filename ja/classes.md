@@ -10,8 +10,8 @@ toc:
     slug: classes 
   - name: マーケット 
     slug: markets 
-  - name: 技術スペック 
-    slug: technical_spec 
+  - name: 技術仕様 
+    slug: tech_spec 
 next: 
    name: マーケット
    slug: markets 
