@@ -73,5 +73,9 @@ The Ethereum Network Version is only available from our Fiat NFT Exchange [Adam 
 
 For more details, see [Technology Specs](/wiki/?slug=tech_spec&lang=en)
 
-#### What do I get from the Ethereum Network Version ?
-Anyone who successfully collects a full set of of cards with the same inscriptions, will be automatically granted [Gloves of the Ethereum Forger](), which enables a person to froge Non-Primal Card with [Primals](/wiki/?slug=/collectables/primals&lang=en) at the highest level.
+## How do I become a Card Forger ?
+Anyone who successfully collects a full set of of cards with the same inscriptions, will be automatically granted [Gloves of the Ethereum Forger]() (from the Ethereum Version) which enables a person to froge Non-Primal Card with [Primals](/wiki/?slug=/collectables/primals&lang=en) at the highest level.
+
+It's slightly different for Polygon.
+
+For more detail checkout [Forging]()
