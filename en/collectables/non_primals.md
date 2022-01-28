@@ -2,6 +2,8 @@
 title: Non-Primals 
 slug: /collectables/non_primals 
 toc:
+  - name: Collectables 
+    slug: collectables 
   - name: Primals
     slug: /collectables/primals 
   - name: Non-Primals 

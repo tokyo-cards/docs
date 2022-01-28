@@ -2,6 +2,10 @@
 title: Primals 
 slug: /collectables/primals 
 toc:
+  - name: Collectables 
+    slug: collectables 
+  - name: Primals
+    slug: /collectables/primals 
   - name: Primals
     slug: /collectables/primals 
   - name: Non-Primals 
@@ -9,8 +13,11 @@ toc:
   - name: Rarity 
     slug: /collectables/rarity
 next: 
-   name: Non-Primals
-   slug: /collectables/non_primals
+  name: Non-Primals
+  slug: /collectables/non_primals
+previous:
+  name: Collectables 
+  slug: collectables 
 ---
 
 # Primals
