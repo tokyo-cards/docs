@@ -45,3 +45,11 @@ So, there exists 54 different versions __Two of Spades__, here are 2 of them:
 > ::item[Two of Spades]{id=0 asset_type=card rarity=uncommon lang=en}
 
 ## Obtaining the Non-Primals
+
+### The Polygon Network Version
+It's possible to obtain a single random Non-Primal Card from a lootbox on this website. Or it's possible to find a seconded hand one on Opensea.io
+
+[Portal to the Lootbox Page](/temple/?lang=en&tab=1) (Must Install Metamask)
+[Portal to the Opensea Page]() (Must Install Metamask)
+
+ 
