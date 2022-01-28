@@ -38,8 +38,9 @@ Primal Cards have the following sizes:
 
 For Example:
 
+> A Primal Card:
 > ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
-> _CAN_ be _Obtained_ by [Disenchanting]() a 
+> _CAN_ be _Obtained_ by [Disenchanting]() a Non-Primal Card:
 > ::item[Two of Spades]{id=1 asset_type=card rarity=uncommon lang=en}
 
 ## Combining / Upgrading
