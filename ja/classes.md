@@ -1,23 +1,23 @@
 ---
-title: Classes
+title: 職業クラス
 slug: classes
 toc:
-  - name: Introduction
+  - name: 初めに 
     slug: main 
-  - name: Collectables 
+  - name: コレクション 
     slug: collectables 
-  - name: Classes 
+  - name: 職業クラス 
     slug: classes 
-  - name: Markets 
+  - name: マーケット 
     slug: markets 
-  - name: Tech Spec 
-    slug: tech_spec 
+  - name: 技術スペック 
+    slug: technical_spec 
 next: 
-   name: Markets
-   slug: markets
+   name: マーケット
+   slug: markets 
 previous: 
-   name: Collectables 
-   slug: collectables
+   name: コレクション 
+   slug: collectables 
 ---
 
 # クラス 
