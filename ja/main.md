@@ -6,7 +6,7 @@ toc:
     slug: main 
   - name: コレクション 
     slug: collectables 
-  - name: 職業 
+  - name: 職業クラス 
     slug: classes 
   - name: マーケット 
     slug: markets 
