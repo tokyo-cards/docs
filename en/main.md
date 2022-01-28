@@ -34,6 +34,4 @@ The collective individuals in Tokyo.Cards believe, __public__ blockchain applica
 2. This entity does not run __ANY__ service that is not related to businesses in the real world.
 
 ***
-### Footnotes
-
 [^1]: Decentralized Applications, usually referring to those made with blockchain technologies.
