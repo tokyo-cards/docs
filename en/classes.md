@@ -23,6 +23,12 @@ previous:
 # Classes 
 Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading Skills__ are obtained only by possessing certain __Artifact Items__. In the __Current Version__ of Tokyo.Cards, there are two classes: __Enchanter__ and __Disenchanter__.
 
+The following classes are available:
+
+- Forger
+- Enchanter
+- Disenchanter
+
 ## Disenchanter 
 Disenchanters are holders of [[Item: Wand of Acky]](EnchantersStaff), an Artifact Item that can only be obtained when an individual posses one single set of [[Deck: Acky's Deck]](AkkiDeck). The individual will be able to freeze his/hers card set and obtain [[Item: Wand of Acky]](EnchantersStaff) in exchange.
 
