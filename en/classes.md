@@ -21,28 +21,80 @@ previous:
 ---
 
 # Classes 
-Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading Skills__ are obtained only by possessing certain __Artifact Items__. In the __Current Version__ of Tokyo.Cards, there are two classes: __Enchanter__ and __Disenchanter__.
+Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading Skills__ are obtained only by possessing certain __Artifact Items__. In Tokyo.Cards,
 
 The following classes are available:
 
-- Forger
-- Enchanter
-- Disenchanter
+- Forger - Creating [Crafting Tools]() and [Non-Primals]()
+- Enchanter - Upgrading [Crafting Tools]()
+- Disenchanter - Disenchanting [Non-Primals]()
 
-## Disenchanter 
-Disenchanters are holders of [[Item: Wand of Acky]](EnchantersStaff), an Artifact Item that can only be obtained when an individual posses one single set of [[Deck: Acky's Deck]](AkkiDeck). The individual will be able to freeze his/hers card set and obtain [[Item: Wand of Acky]](EnchantersStaff) in exchange.
+## Forger
+Forgers are holders of [[Forger's Hammer]](ForgerHammer), an Artifact Item that can only be obtained when an individual posses a __FULL HOUSE__ hand of cards. Upon obtaining [[Forger's Hammer]](ForgerHammer), a person will have access to __Apprentice Forging__ which empowers that person to create other Artifact Items and Cards.
 
-And only those who posses [[Item: Wand of Acky]](EnchantersStaff) can perform [[Trading Skill: Disenchant]](enchant). Visit the link on [[Trading Skill: Dienchant]](enchant) for more details.
+### Items that a Forger can forge:
 
-For more information visit [[Class: Disechanter]](Enchanter).
+#### Apprentice Forger
+- [[Forger's Hammer]](ForgerHammer)
+- [[Wand of Enchanter]](EnchanterWand)
+- [[Staff of Disenchanter]](DisenchanterStaff)
+- All [Non-Primals]() of Uncommon Quality
+
+#### Expert Forger
+- All [Non-Primals]() of Rare Quality
+
+#### Master Forger
+- All [Non-Primals]() of Epic Quality
+
+#### Grandmaster Forger
+- All [Non-Primals]() of Legendary Quality
+
 
 ## Enchanter 
-On the opposite, Enchanters are holders of [[Item: Wand of the Forsaken Priest]](WandOfTheForsakenPriest), an Artifact Item that can only be obtained when an individual posses all four of the following items:
-- [[Card: Scarlet Iordium Orb]](https://tokyo.cards/items/?id=2931&asset_type=card&lang=en)
-- [[Card: Violet Iordium Orb]](https://tokyo.cards/items/?id=2929&asset_type=card&lang=en)
-- [[Card: Lima Iordium Orb]](https://tokyo.cards/items/?id=2930&asset_type=card&lang=en)
-- [[Card: Arcane Iordium Orb]](https://tokyo.cards/items/?id=2928&asset_type=card&lang=en)
+Enchanters are holders of [[Wand of Enchanter]](EnchanterWand), an Artifact Item that can only be obtained when an individual posses a __Strait__ hand of cards. Upon obtaining [[Wand of Enchanter]](EnchanterWand), a person will have access to __Apprentice Enchanting__ which empowers that person to upgrade other Artifact Items with materials.
 
-The Individual will be able to freeze his/her card set and obtain [[Item: Wand of the Forsaken Priest]](wandfo) in return.
+Upon upgrading, an individual will obtain an artifact item to the next expertise level.
 
-And only those who posses  [[Item: Wand of the Forsaken Priest]](wandfo) can perform [[Trading Skill: Enchant]](https://stackedit.io/enchant). Visit the link on [[Trading Skill: Enchant]](https://stackedit.io/enchant) for more details.
+### Items that a Enchanter can upgrade:
+
+#### Apprentice Enchanter 
+- [[Forger's Hammer]](ForgerHammer)
+- [[Wand of Enchanter]](EnchanterWand)
+- [[Staff of Disenchanter]](DisenchanterStaff)
+
+#### Expert Enchanter 
+- [[Expert Forger's Hammer]](ForgerHammer)
+- [[Expert Wand of Enchanter]](EnchanterWand)
+- [[Expert Staff of Disenchanter]](DisenchanterStaff)
+
+#### Master Enchanter 
+- [[Master Forger's Hammer]](ForgerHammer)
+- [[Master Wand of Enchanter]](EnchanterWand)
+- [[Master Staff of Disenchanter]](DisenchanterStaff)
+
+#### Grandmaster Enchanter 
+- [[Grandmaster Forger's Hammer]](ForgerHammer)
+- [[Grandmaster Wand of Enchanter]](EnchanterWand)
+- [[Grandmaster Staff of Disenchanter]](DisenchanterStaff)
+
+## Disenchanter 
+On the opposite, Disenchanters are holders of [[Staff of Disenchanter]](DisenchanterStaff), an Artifact Item that can only be obtained when an individual posses posses a __Two Pairs__ hand of cards. Upon obtaining [[Staff of Disenchanter]](DisenchanterStaff), a person will have access to __Apprentice Disenchanting__ which empowers that person to Disenchant [Non-Primals]() to materials.
+
+### Items that a Disenchanter can disenchanter:
+
+#### Apprentice Disenchanter
+- All [Non-Primals]() of Uncommon Quality
+
+#### Expert Disenchanter
+- All [Non-Primals]() of Rare Quality
+
+#### Master Disenchanter
+- All [Non-Primals]() of Epic Quality
+
+#### Grandmaster Disenchanter
+- All [Non-Primals]() of Legendary Quality
+
+
+## Cooldowns
+
+ALL the trading skills have a cooldown of __7 x 24 = 168 (hours)__.
