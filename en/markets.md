@@ -35,7 +35,7 @@ Cards are obtainable at the following locations:
 
 ## Initial Sales / Primary Market
 ### Tokyo.Cards Website and Lootboxes
-Initial Sales are available on Tokyo.Cards Website. Cards are obtainable by purchasing [[Lootboxes]](lootbox) and [[Unpacking]](unpacking) them.  Although a user can always re-sell the lootbox on Secondary Markets like Opensea. It will probably more expensive than the initial sales price.  
+Initial Sales are available on Tokyo.Cards Website. Cards are obtainable by purchasing Lootboxes[^1] and Unpacking them.  Although a user can always re-sell the lootbox on Secondary Markets like Opensea. It will probably more expensive than the initial sales price.  
 > __Please Note:__ Lootboxes are only purchasable with cryptos on the __Polygon__ Blockchain.
 
 ### Adam by GMO
@@ -44,8 +44,11 @@ Adam.jp is a partner of Tokyo.Cards. Adam.jp is under the umbrella of [GMO](http
 
 ## Secondary Market
 It is also possible to buy and sell the cards on secondary markets as follows:
-1. Opensea (Opensea.io)
-2. Adam by GMO (Adam.jp)
+1. Opensea [Opensea.io](https://opensea.io)
+2. Adam by GMO [Adam.jp](https://adam.jp)
 
 Opensea is a free on-chain market that only accepts crypto and do not require KYC.
 Adam by GMO is a fiat / crypto market that requires KYC. 
+
+***
+[^1]: Lootboxes are boxes that contains Items of Random Rarity. People buy them to see if they can get a Rare item.

@@ -34,7 +34,7 @@ previous:
 The nature / theme of the Non-Primal Cards are usually a reflection of that of the realworld business of the issuing entity.
 The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ __[Akiho Yoshizawa](https://en.wikipedia.org/wiki/Akiho_Yoshizawa)__ by one of the producing company called Maxing, here is it's website.
 
-> Link to [Maxing](http://www.maxing.jp/top/)
+> Link to [Maxing.jp](http://www.maxing.jp/top/)
 
 (Warning: it's all Japanese and without SSL) .
 

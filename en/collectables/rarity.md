@@ -28,12 +28,11 @@ previous:
 
 Here are the rarity levels of Tokyo.Cards
 
-- Common
-- Uncommon
-- Rare
-- Epic
-- Legendary
-- Artifact
+- [Common](#common)
+- [Uncommon](#uncommon)
+- [Rare](#rare)
+- [Epic](#epic)
+- [Legendary](#legendary)
 
 ## Common
 
@@ -86,9 +85,3 @@ For example:
 > ::item[Real Joker]{id=2900 asset_type=card rarity=legendary lang=en}
 
 is a "Legendary" card. Rare cards are marked with orange color.
-
-## Artifact
-
-Artifact Items empowers holders with certain trading skills.
-
-For more details see [Classes]() and [Trading Skills]()
