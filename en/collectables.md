@@ -36,7 +36,7 @@ Three types of Collectables are available, those are:
 
 
 ## The Cards
-__(X)³™__ collections have __Two__ Types of Cards: __Primals__ and __Non-Primals__. Primals and Non-Primals can be converted from one to another via __Enchanting__ and __Disenchanting__. __Non-Primal Cards__ always caters to a certain theme no matter it is for a Photographer, a musician or any other from of art. __Non-Primal Cards__ are obtainable through initial sale events, while __Primal Cards__ can only be obtained through __Disenchanting__ the __Non-Primal Cards__.
+__(X)³™__ collections have __Two__ Types of Cards: [Primals](/wiki/?slug=/collectables/primals&lang=en) and [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en). Primals and Non-Primals can be converted from one to another via [Enchanting](/wiki/?slug=classes&lang=en#enchanter) and [Disenchanting](/wiki/?slug=classes&lang=en#disenchanter). [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) Card always caters to a certain theme no matter it is for a Photographer, a musician or any other from of art. [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) are obtainable through initial sale events, while [Primals](/wiki/?slug=/collectables/primals&lang=en) can only be obtained through [Disenchanting](/wiki/?slug=classes&lang=en#disenchanter) the [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en).
 
 Checkout the [Collections](/collections/?lang=en) Page to see Tokyo.Cards' Card Collections
 
