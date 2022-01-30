@@ -48,7 +48,7 @@ Primal Cards have the following sizes:
 1. [Mote](#the-motes) - From [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) Non-Primal Cards
 2. [Shard](#the-shards) - From [Rare](/wiki/?slug=/collectables/rarity&lang=en#rare) Non-Primal Cards
 3. [Core](#the-cores) - From [Epic](/wiki/?slug=/collectables/rarity&lang=en#epic) Non-Primal Cards
-4. [Orb](#the-orbs) - From [Legendary](/wiki/?slug=/collectables/rarity&lang=en#legendary) Non- Primal Cards
+4. [Orb](#the-orbs) - From [Legendary](/wiki/?slug=/collectables/rarity&lang=en#legendary) Non-Primal Cards
 
 For Example:
 
