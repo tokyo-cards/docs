@@ -2,14 +2,23 @@
 title: Rarity 
 slug: /collectables/rarity 
 toc:
+  - name: Introduction
+    slug: main 
   - name: Collectables 
     slug: collectables 
-  - name: Primals
-    slug: /collectables/primals 
-  - name: Non-Primals 
-    slug: /collectables/non_primals
-  - name: Rarity 
-    slug: /collectables/rarity
+    children:
+      - name: Primals
+        slug: /collectables/primals 
+      - name: Non-Primals 
+        slug: /collectables/non_primals
+      - name: Rarity 
+        slug: /collectables/rarity
+  - name: Classes 
+    slug: classes 
+  - name: Markets 
+    slug: markets 
+  - name: Tech Spec 
+    slug: tech_spec 
 previous: 
   name: Non-Primals 
   slug: /collectables/non_primals
