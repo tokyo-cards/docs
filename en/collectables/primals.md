@@ -33,7 +33,7 @@ There are 16 and __ONLY__ 16 different primal cards in Tokyo.Cards. They are cat
 Primals are __ONLY__ obtainable by [Disenchanting](/wiki/?slug=classes&lang=en#disenchanter) the [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) Cards.
 
 ## The Colors Of the Primal Cards
-The Color of a Primal Card is determined by the __House__ of the [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) Card it is [Disenchanted]() from.
+The Color of a Primal Card is determined by the __House__ of the [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) Card it is [Disenchanted](/wiki/?slug=classes&lang=en#disenchanter) from.
 
 Primal Cards have the following colors:
 1. Scarlet - From House of Hearts
@@ -42,7 +42,7 @@ Primal Cards have the following colors:
 4. Arcane - From House of Spades
 
 ## The Sizes and rarites Of the Primal Cards
-The Size of a Primal Card is determined by the __Rarity__ of the [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) Card it is [Disenchanted]() from.
+The Size of a Primal Card is determined by the __Rarity__ of the [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) Card it is [Disenchanted](/wiki/?slug=classes&lang=en#disenchanter) from.
 
 Primal Cards have the following sizes:
 1. [Mote](#the-motes) - From [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) Non-Primal Cards
