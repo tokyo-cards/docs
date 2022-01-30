@@ -30,9 +30,9 @@ __(X)³™__ is the name of the collection that Tokyo.Cards issues. __X__ repres
 ## Three Types of Collectables
 Three types of Collectables are available, those are:
 
-1. The Cards
-2. Crafting Tools 
-3. The Mintables
+1. [The Cards](#the-cards)
+2. [Crafting Tools](#crafting-tools)
+3. [The Mintables](#the-mintables)
 
 
 ## The Cards
@@ -54,24 +54,24 @@ __Crafting Tools__ are only obtainable by [Forging](/wiki/?slug=classes&lang=en#
 The following crafting tools are available:
 
 #### Apprentice Level 
-- [[Forger's Hammer]](ForgerHammer)
-- [[Wand of Enchanter]](EnchanterWand)
-- [[Staff of Disenchanter]](DisenchanterStaff)
+- ::item[Forger's Hammer]{id=2916 asset_type=card rarity=uncommon lang=en} 
+- ::item[Wand of Enchanter]{id=2916 asset_type=card rarity=uncommon lang=en} 
+- ::item[Staff of Disenchanter]{id=2916 asset_type=card rarity=uncommon lang=en} 
 
 #### Expert Level
-- [[Expert Forger's Hammer]](ForgerHammer)
-- [[Expert Wand of Enchanter]](EnchanterWand)
-- [[Expert Staff of Disenchanter]](DisenchanterStaff)
+- ::item[Expert Forger's Hammer]{id=2916 asset_type=card rarity=rare lang=en} 
+- ::item[Expert Wand of Enchanter]{id=2916 asset_type=card rarity=rare lang=en} 
+- ::item[Expert Staff of Disenchanter]{id=2916 asset_type=card rarity=rare lang=en} 
 
 #### Master Level 
-- [[Master Forger's Hammer]](ForgerHammer)
-- [[Master Wand of Enchanter]](EnchanterWand)
-- [[Master Staff of Disenchanter]](DisenchanterStaff)
+- ::item[Master Forger's Hammer]{id=2916 asset_type=card rarity=epic lang=en} 
+- ::item[Master Wand of Enchanter]{id=2916 asset_type=card rarity=epic lang=en} 
+- ::item[Master Staff of Disenchanter]{id=2916 asset_type=card rarity=epic lang=en} 
 
 #### Grandmaster Level 
-- [[Grandmaster Forger's Hammer]](ForgerHammer)
-- [[Grandmaster Wand of Enchanter]](EnchanterWand)
-- [[Grandmaster Staff of Disenchanter]](DisenchanterStaff)
+- ::item[Grand Master Forger's Hammer]{id=2916 asset_type=card rarity=epic lang=en} 
+- ::item[Grand Master Wand of Enchanter]{id=2916 asset_type=card rarity=epic lang=en} 
+- ::item[Grand Master Staff of Disenchanter]{id=2916 asset_type=card rarity=epic lang=en} 
 
 For more details, see [Classes](/wiki/?slug=classes&lang=en) 
 
