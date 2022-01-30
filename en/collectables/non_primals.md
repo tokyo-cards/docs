@@ -32,7 +32,7 @@ previous:
 
 ## Introduction
 The nature / theme of the Non-Primal Cards are usually a reflection of that of the realworld business of the issuing entity.
-The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ __Akiho Yoshizawa__ by one of the producing company called Maxing, here is it's website.(Warning: it's all Japanese and without SSL) [Maxing](http://www.maxing.jp/top/).
+The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ __[Akiho Yoshizawa](https://en.wikipedia.org/wiki/Akiho_Yoshizawa)__ by one of the producing company called Maxing, here is it's website.(Warning: it's all Japanese and without SSL) [Maxing](http://www.maxing.jp/top/).
 
 ## Features of Non-Primal Cards
 
@@ -40,7 +40,7 @@ The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ _
 Non-Primal Cards are __ALWAYS__ issued as _Solidarity Poker Cards_. Like all poker card sets, there are 4 different __Houses__: Spades, Hearts, Clubs and Diamonds. And there are 2 Jokers, the "Fake Joker" and the "Real Joker". That's __(13 x 4) + 2 = 54__ Cards.
 
 ### Inscriptions
-Apart from the _"Normal"_ property of Poker Cards, there are also inscriptions imprinted on each one of the cards. These, are the 54 Katakana of the Japanese Language. So, that added 54 different varieties to each one of the card.
+Apart from the _"Normal"_ property of Poker Cards, there are also inscriptions imprinted on each one of the cards. These, are the 54 Hirakana of the Japanese Language. Here is a link of Wikipedia about it. [Hirakana](https://en.wikipedia.org/wiki/Hiragana) So, that added 54 different varieties to each one of the card.
 
 ### Total Unique Varieties 
 With all the Houses, Joker and Inscription, a single deck of Non-Primal Card collection has __((13 x 4) + 2) * 54 = 54 * 54 = 2916__ unique varieties.
@@ -64,18 +64,15 @@ It's possible to obtain a single random Non-Primal Card from a lootbox on this w
 [Portal to the Opensea Page]() (Must Install Metamask)
 
 #### From Crafting 
-It's also possible to get one card from a [Card Forger](/wiki/?slug=classes&lang=en#forger). A [Card Forger]() will help to [Forge]() a Non-Primal Card with 4 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
+It's also possible to get one card from a [Card Forger](/wiki/?slug=classes&lang=en#forger). A [Forger](/wiki/?slug=classes&lang=en#forger) will help to __Forge__ a Non-Primal Card with 1 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
 
-Of course, the [Card Forger]() will be happy to collect a fee from doing so.
+Of course, the [Forger](/wiki/?slug=classes&lang=en#forger) will be happy to collect a fee from doing so.
 
 For example:
 
-> With the following 4 Primal Cards
+> With the following 1 Primal Cards
 > ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
-> ::item[Violet Iordium Mote]{id=2917 asset_type=card rarity=uncommon lang=en} 
-> ::item[Lima Iordium Mote]{id=2918 asset_type=card rarity=uncommon lang=en} 
-> ::item[Scarlet Iordium Mote]{id=2919 asset_type=card rarity=uncommon lang=en} 
-> A Card Forger will be able to Forge a random card of [Uncommon]() quality from a chosen card set.
+> A Card Forger will be able to Forge a random card of [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) quality from a chosen card set.
 
 ### The Ethereum Network Version
 The Ethereum Network Version is only available from our Fiat NFT Exchange [Adam by GMO](https://adam.jp). It's possible to puchase a card from them and __withdraw__ into a person's private wallet. A swap contract will become available to swap their __ERC721__ contract to our __ERC1155__ version. 
@@ -83,8 +80,10 @@ The Ethereum Network Version is only available from our Fiat NFT Exchange [Adam 
 For more details, see [Technology Specs](/wiki/?slug=tech_spec&lang=en)
 
 ## How do I become a Card Forger ?
-Anyone who successfully collects a full set of of cards with the same inscriptions, will be automatically granted [Gloves of the Ethereum Forger]() (from the Ethereum Version) which enables a person to froge Non-Primal Card with [Primals](/wiki/?slug=/collectables/primals&lang=en) at the highest level.
+Anyone who successfully collects a __FULL HOUSE__ , will be automatically granted 
 
-It's slightly different for Polygon.
+::item[Forger's Hammer]{id=2916 asset_type=card rarity=uncommon lang=en} 
 
-For more detail checkout [Forging]()
+which enables a person to froge Non-Primal Card with [Primals](/wiki/?slug=/collectables/primals&lang=en)
+
+For more detail checkout [Forger](/wiki/?slug=classes&lang=en#forger)
