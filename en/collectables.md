@@ -50,6 +50,29 @@ For more details, see [Primals](/wiki/?slug=/collectables/primals&lang=en) and [
 ## Crafting Tools 
 __Crafting Tools__ are only obtainable by [Forging](/wiki/?slug=classes&lang=en#forger). __Crafting Tools__ empowers individuals with __Crafting Skills__ such as [Enchanting](/wiki/?slug=classes&lang=en#enchanter), [Forging](/wiki/?slug=classes&lang=en#forger) or [Disenchanting](/wiki/?slug=classes&lang=en#disenchanter).
 
+### List of Crafting Tools
+The following crafting tools are available:
+
+#### Apprentice Level 
+- [[Forger's Hammer]](ForgerHammer)
+- [[Wand of Enchanter]](EnchanterWand)
+- [[Staff of Disenchanter]](DisenchanterStaff)
+
+#### Expert Level
+- [[Expert Forger's Hammer]](ForgerHammer)
+- [[Expert Wand of Enchanter]](EnchanterWand)
+- [[Expert Staff of Disenchanter]](DisenchanterStaff)
+
+#### Master Level 
+- [[Master Forger's Hammer]](ForgerHammer)
+- [[Master Wand of Enchanter]](EnchanterWand)
+- [[Master Staff of Disenchanter]](DisenchanterStaff)
+
+#### Grandmaster Level 
+- [[Grandmaster Forger's Hammer]](ForgerHammer)
+- [[Grandmaster Wand of Enchanter]](EnchanterWand)
+- [[Grandmaster Staff of Disenchanter]](DisenchanterStaff)
+
 For more details, see [Classes](/wiki/?slug=classes&lang=en) 
 
 ## The Mintables

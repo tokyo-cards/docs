@@ -61,8 +61,30 @@ Tokyo.Cards のカードコレクションは、[コレクション](/collection
 
 詳細は、[Primals](/wiki/?slug=/collectables/primals&lang=ja) と [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=ja) までご参照ください。
 
-## 工作道具
-工作道具は __鍛造__ によって入手可能な道具です。それらの道具は、__エンチャンティング（魔法かけ）__、__鍛造__、__ディスエンチャンティング（魔法とけ）__ などの __工作スキル__ を個人に与える。
+## クラフト道具
+クラフト道具 __鍛造__ によって入手可能な道具です。それらの道具は、__エンチャンティング（魔法かけ）__、__鍛造__、__ディスエンチャンティング（魔法とけ）__ などの __工作スキル__ を個人に与える。
+
+### クラフト道具一覧
+
+#### Apprentice Level 
+- [[Forger's Hammer]](ForgerHammer)
+- [[Wand of Enchanter]](EnchanterWand)
+- [[Staff of Disenchanter]](DisenchanterStaff)
+
+#### Expert Level
+- [[Expert Forger's Hammer]](ForgerHammer)
+- [[Expert Wand of Enchanter]](EnchanterWand)
+- [[Expert Staff of Disenchanter]](DisenchanterStaff)
+
+#### Master Level 
+- [[Master Forger's Hammer]](ForgerHammer)
+- [[Master Wand of Enchanter]](EnchanterWand)
+- [[Master Staff of Disenchanter]](DisenchanterStaff)
+
+#### Grandmaster Level 
+- [[Grandmaster Forger's Hammer]](ForgerHammer)
+- [[Grandmaster Wand of Enchanter]](EnchanterWand)
+- [[Grandmaster Staff of Disenchanter]](DisenchanterStaff)
 
 詳細は [職業クラス](/wiki/slug=classes&lang=ja) までご参照ください。
 
