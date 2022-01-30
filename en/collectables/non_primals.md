@@ -86,10 +86,8 @@ The Ethereum Network Version is only available from our Fiat NFT Exchange [Adam 
 For more details, see [Technology Specs](/wiki/?slug=tech_spec&lang=en)
 
 ## How do I become a Card Forger ?
-Anyone who successfully collects a __FULL HOUSE__ , will be automatically granted 
+And individual have to obtain the following item:
 
 ::item[Forger's Hammer]{id=2916 asset_type=card rarity=uncommon lang=en} 
-
-which enables a person to froge Non-Primal Card with [Primals](/wiki/?slug=/collectables/primals&lang=en)
 
 For more detail checkout [Forger](/wiki/?slug=classes&lang=en#forger)
