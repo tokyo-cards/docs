@@ -6,7 +6,7 @@ toc:
     slug: main 
   - name: Collectables 
     slug: collectables
-    chlidren:
+    children:
       - name: Primals
         slug: /collectables/primals 
       - name: Non-Primals 
