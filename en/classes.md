@@ -45,16 +45,16 @@ Forgers are holders of [[Forger's Hammer]](ForgerHammer), an Artifact Item that 
 - [[Forger's Hammer]](ForgerHammer)
 - [[Wand of Enchanter]](EnchanterWand)
 - [[Staff of Disenchanter]](DisenchanterStaff)
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Uncommon Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) Quality
 
 #### Expert Forger
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Rare Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Rare](/wiki/?slug=/collectables/rarity&lang=en#rare) Quality
 
 #### Master Forger
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Epic Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Epic](/wiki/?slug=/collectables/rarity&lang=en#epic) Quality
 
 #### Grandmaster Forger
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Legendary Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Legendary](/wiki/?slug=/collectables/rarity&lang=en#legendary) Quality
 
 
 ## Enchanter 
@@ -64,42 +64,24 @@ Upon upgrading, an individual will obtain an artifact item to the next expertise
 
 ### Items that a Enchanter can upgrade:
 
-#### Apprentice Enchanter 
-- [[Forger's Hammer]](ForgerHammer)
-- [[Wand of Enchanter]](EnchanterWand)
-- [[Staff of Disenchanter]](DisenchanterStaff)
-
-#### Expert Enchanter 
-- [[Expert Forger's Hammer]](ForgerHammer)
-- [[Expert Wand of Enchanter]](EnchanterWand)
-- [[Expert Staff of Disenchanter]](DisenchanterStaff)
-
-#### Master Enchanter 
-- [[Master Forger's Hammer]](ForgerHammer)
-- [[Master Wand of Enchanter]](EnchanterWand)
-- [[Master Staff of Disenchanter]](DisenchanterStaff)
-
-#### Grandmaster Enchanter 
-- [[Grandmaster Forger's Hammer]](ForgerHammer)
-- [[Grandmaster Wand of Enchanter]](EnchanterWand)
-- [[Grandmaster Staff of Disenchanter]](DisenchanterStaff)
+(Redirect): see [List of Crafting Tools](/wiki/?slug=collectables&lang=en#ist-of-crafting-tools)
 
 ## Disenchanter 
-On the opposite, Disenchanters are holders of [[Staff of Disenchanter]](DisenchanterStaff), an Artifact Item that can only be obtained when an individual posses a __Two Pairs__ hand of cards. Upon obtaining [[Staff of Disenchanter]](DisenchanterStaff), a person will have access to __Apprentice Disenchanting__ which empowers that person to Disenchant [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Uncommon Quality to [Primals](/wiki/?slug=/collectables/primals&lang=en).
+On the opposite, Disenchanters are holders of [[Staff of Disenchanter]](DisenchanterStaff), an Artifact Item that can only be obtained when an individual posses a __Two Pairs__ hand of cards. Upon obtaining [[Staff of Disenchanter]](DisenchanterStaff), a person will have access to __Apprentice Disenchanting__ which empowers that person to Disenchant [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) Quality to [Primals](/wiki/?slug=/collectables/primals&lang=en).
 
 ### Items that a Disenchanter can disenchant:
 
 #### Apprentice Disenchanter
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Uncommon Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) Quality
 
 #### Expert Disenchanter
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Rare Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Rare](/wiki/?slug=/collectables/rarity&lang=en#rare) Quality
 
 #### Master Disenchanter
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Epic Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Epic](/wiki/?slug=/collectables/rarity&lang=en#epic) Quality
 
 #### Grandmaster Disenchanter
-- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Legendary Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Legendary](/wiki/?slug=/collectables/rarity&lang=en#legendary) Quality
 
 
 ## Cooldowns
