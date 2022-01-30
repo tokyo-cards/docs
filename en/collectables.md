@@ -69,9 +69,9 @@ The following crafting tools are available:
 - ::item[Master Staff of Disenchanter]{id=2916 asset_type=card rarity=epic lang=en} 
 
 #### Grandmaster Level 
-- ::item[Grand Master Forger's Hammer]{id=2916 asset_type=card rarity=epic lang=en} 
-- ::item[Grand Master Wand of Enchanter]{id=2916 asset_type=card rarity=epic lang=en} 
-- ::item[Grand Master Staff of Disenchanter]{id=2916 asset_type=card rarity=epic lang=en} 
+- ::item[Grand Master Forger's Hammer]{id=2916 asset_type=card rarity=legendary lang=en} 
+- ::item[Grand Master Wand of Enchanter]{id=2916 asset_type=card rarity=legendary lang=en} 
+- ::item[Grand Master Staff of Disenchanter]{id=2916 asset_type=card rarity=legendary lang=en} 
 
 For more details, see [Classes](/wiki/?slug=classes&lang=en) 
 
