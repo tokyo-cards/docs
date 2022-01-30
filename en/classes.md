@@ -25,8 +25,8 @@ Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading 
 
 The following classes are available:
 
-- Forger - Creating [Crafting Tools]() and [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en)
-- Enchanter - Upgrading [Crafting Tools]()
+- Forger - Creating [Crafting Tools](/wiki/?slug=collectables&lang=en#crafting-tools) and [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en)
+- Enchanter - Upgrading [Crafting Tools](/wiki/?slug=collectables&lang=en#crafting-tools)
 - Disenchanter - Disenchanting [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en)
 
 ## Forger
