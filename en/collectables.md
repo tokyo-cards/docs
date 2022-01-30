@@ -48,7 +48,7 @@ For more details, see [Primals](/wiki/?slug=/collectables/primals&lang=en) and [
 
 
 ## Crafting Tools 
-__Crafting Tools__ are only obtainable by __forging__. __Crafting Tools__ empowers individuals with __Crafting Skills__ such as __Enchanting__, __Forging__ or __Disenchanting__.
+__Crafting Tools__ are only obtainable by [Forging](/wiki/?slug=classes&lang=en#forger). __Crafting Tools__ empowers individuals with __Crafting Skills__ such as [Enchanting](/wiki/?slug=classes&lang=en#enchanter), [Forging](/wiki/?slug=classes&lang=en#forger) or [Disenchanting](/wiki/?slug=classes&lang=en#disenchanter).
 
 For more details, see [Classes](/wiki/?slug=classes&lang=en) 
 
