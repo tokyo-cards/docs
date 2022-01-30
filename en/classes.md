@@ -25,9 +25,9 @@ Classes in __Tokyo.Cards__ means individuals with __Trading Skills__. __Trading 
 
 The following classes are available:
 
-- Forger - Creating [Crafting Tools]() and [Non-Primals]()
+- Forger - Creating [Crafting Tools]() and [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en)
 - Enchanter - Upgrading [Crafting Tools]()
-- Disenchanter - Disenchanting [Non-Primals]()
+- Disenchanter - Disenchanting [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en)
 
 ## Forger
 Forgers are holders of [[Forger's Hammer]](ForgerHammer), an Artifact Item that can only be obtained when an individual posses a __FULL HOUSE__ hand of cards. Upon obtaining [[Forger's Hammer]](ForgerHammer), a person will have access to __Apprentice Forging__ which empowers that person to create other Artifact Items and Cards.
@@ -38,16 +38,16 @@ Forgers are holders of [[Forger's Hammer]](ForgerHammer), an Artifact Item that 
 - [[Forger's Hammer]](ForgerHammer)
 - [[Wand of Enchanter]](EnchanterWand)
 - [[Staff of Disenchanter]](DisenchanterStaff)
-- All [Non-Primals]() of Uncommon Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Uncommon Quality
 
 #### Expert Forger
-- All [Non-Primals]() of Rare Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Rare Quality
 
 #### Master Forger
-- All [Non-Primals]() of Epic Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Epic Quality
 
 #### Grandmaster Forger
-- All [Non-Primals]() of Legendary Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Legendary Quality
 
 
 ## Enchanter 
@@ -78,21 +78,21 @@ Upon upgrading, an individual will obtain an artifact item to the next expertise
 - [[Grandmaster Staff of Disenchanter]](DisenchanterStaff)
 
 ## Disenchanter 
-On the opposite, Disenchanters are holders of [[Staff of Disenchanter]](DisenchanterStaff), an Artifact Item that can only be obtained when an individual posses posses a __Two Pairs__ hand of cards. Upon obtaining [[Staff of Disenchanter]](DisenchanterStaff), a person will have access to __Apprentice Disenchanting__ which empowers that person to Disenchant [Non-Primals]() to materials.
+On the opposite, Disenchanters are holders of [[Staff of Disenchanter]](DisenchanterStaff), an Artifact Item that can only be obtained when an individual posses a __Two Pairs__ hand of cards. Upon obtaining [[Staff of Disenchanter]](DisenchanterStaff), a person will have access to __Apprentice Disenchanting__ which empowers that person to Disenchant [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Uncommon Quality to [Primals](/wiki/?slug=/collectables/primals&lang=en).
 
 ### Items that a Disenchanter can disenchanter:
 
 #### Apprentice Disenchanter
-- All [Non-Primals]() of Uncommon Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Uncommon Quality
 
 #### Expert Disenchanter
-- All [Non-Primals]() of Rare Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Rare Quality
 
 #### Master Disenchanter
-- All [Non-Primals]() of Epic Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Epic Quality
 
 #### Grandmaster Disenchanter
-- All [Non-Primals]() of Legendary Quality
+- All [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of Legendary Quality
 
 
 ## Cooldowns

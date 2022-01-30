@@ -31,8 +31,8 @@ __(X)³™__ is the name of the collection that Tokyo.Cards issues. __X__ repres
 Three types of Collectables are available, those are:
 
 1. The Cards
-2. The Mintables
-3. Artifact Items
+2. Crafting Tools 
+3. The Mintables
 
 
 ## The Cards
@@ -46,12 +46,13 @@ Primal Cards and Non-Primal Cards are the two basic types of cards within the __
 
 For more details, see [Primals](/wiki/?slug=/collectables/primals&lang=en) and [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en)
 
+
+## Crafting Tools 
+__Crafting Tools__ are only obtainable by __forging__. __Crafting Tools__ empowers individuals with __Crafting Skills__ such as __Enchanting__, __Forging__ or __Disenchanting__.
+
+For more details, see [Classes](/wiki/slug=classes&lang=en) 
+
 ## The Mintables
 Users will be able to mint some of the items under certain conditions. 
 
 For more details, see [Mintables](#mintable)
-
-## Artifact Items
-Artifact Items are extremely hard to obtain. It does NOT necessarily mean it costs a much money, but Artifact Items are only obtainable by __enchanting__. Artifact Items are also very powerful. They make holders capable of doing something others can't.
-
-For more details, see [Rarity - Artifact](#Artifact) 
