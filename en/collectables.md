@@ -50,7 +50,7 @@ For more details, see [Primals](/wiki/?slug=/collectables/primals&lang=en) and [
 ## Crafting Tools 
 __Crafting Tools__ are only obtainable by __forging__. __Crafting Tools__ empowers individuals with __Crafting Skills__ such as __Enchanting__, __Forging__ or __Disenchanting__.
 
-For more details, see [Classes](/wiki/slug=classes&lang=en) 
+For more details, see [Classes](/wiki/?slug=classes&lang=en) 
 
 ## The Mintables
 Users will be able to mint some of the items under certain conditions. 
