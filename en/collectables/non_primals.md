@@ -55,7 +55,7 @@ It's possible to obtain a single random Non-Primal Card from a lootbox on this w
 [Portal to the Opensea Page]() (Must Install Metamask)
 
 #### From Crafting 
-It's also possible to get one card from a [Card Forger](). A [Card Forger]() will help to [Forge]() a Non-Primal Card with 4 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
+It's also possible to get one card from a [Card Forger](/wiki/?slug=classes&lang=en#forger). A [Card Forger]() will help to [Forge]() a Non-Primal Card with 4 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
 
 Of course, the [Card Forger]() will be happy to collect a fee from doing so.
 
