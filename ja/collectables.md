@@ -81,9 +81,9 @@ Tokyo.Cards のカードコレクションは、[コレクション](/collection
 - ::item[マスター ディスエンチャンターの棒]{id=2916 asset_type=card rarity=epic lang=ja} 
 
 #### グランドマスター レベル
-- ::item[グランドマスター 鍛冶屋さんの鉄槌]{id=2916 asset_type=card rarity=epic lang=ja} 
-- ::item[グランドマスター エンチャンターの杖]{id=2916 asset_type=card rarity=epic lang=ja} 
-- ::item[グランドマスター ディスエンチャンターの棒]{id=2916 asset_type=card rarity=epic lang=ja} 
+- ::item[グランドマスター 鍛冶屋さんの鉄槌]{id=2916 asset_type=card rarity=legendary lang=ja} 
+- ::item[グランドマスター エンチャンターの杖]{id=2916 asset_type=card rarity=legendary lang=ja} 
+- ::item[グランドマスター ディスエンチャンターの棒]{id=2916 asset_type=card rarity=legendary lang=ja} 
 
 詳細は [職業クラス](/wiki/slug=classes&lang=ja) までご参照ください。
 
