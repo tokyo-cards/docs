@@ -32,7 +32,11 @@ previous:
 
 ## Introduction
 The nature / theme of the Non-Primal Cards are usually a reflection of that of the realworld business of the issuing entity.
-The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ __[Akiho Yoshizawa](https://en.wikipedia.org/wiki/Akiho_Yoshizawa)__ by one of the producing company called Maxing, here is it's website.(Warning: it's all Japanese and without SSL) [Maxing](http://www.maxing.jp/top/).
+The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ __[Akiho Yoshizawa](https://en.wikipedia.org/wiki/Akiho_Yoshizawa)__ by one of the producing company called Maxing, here is it's website.
+
+> Link to [Maxing](http://www.maxing.jp/top/)
+
+(Warning: it's all Japanese and without SSL) .
 
 ## Features of Non-Primal Cards
 
@@ -40,12 +44,14 @@ The first Non-Primal Card Set, is issued as a tribute to the _famous pornstar_ _
 Non-Primal Cards are __ALWAYS__ issued as _Solidarity Poker Cards_. Like all poker card sets, there are 4 different __Houses__: Spades, Hearts, Clubs and Diamonds. And there are 2 Jokers, the "Fake Joker" and the "Real Joker". That's __(13 x 4) + 2 = 54__ Cards.
 
 ### Inscriptions
-Apart from the _"Normal"_ property of Poker Cards, there are also inscriptions imprinted on each one of the cards. These, are the 54 Hirakana of the Japanese Language. Here is a link of Wikipedia about it. [Hirakana](https://en.wikipedia.org/wiki/Hiragana) So, that added 54 different varieties to each one of the card.
+Apart from the _"Normal"_ property of Poker Cards, there are also inscriptions imprinted on each one of the cards. These, are the 54 Hirakana of the Japanese Language. Here is a link of Wikipedia about it. [Hirakana](https://en.wikipedia.org/wiki/Hiragana) That adds 54 different varieties to each one of the card.
 
 ### Total Unique Varieties 
 With all the Houses, Joker and Inscription, a single deck of Non-Primal Card collection has __((13 x 4) + 2) * 54 = 54 * 54 = 2916__ unique varieties.
 
-So, there exists 54 different versions __Two of Spades__, here are 2 of them:
+Thus, there exists 54 different versions __Two of Spades__, here are 2 of them:
+
+(Click on the link to see for yourself)
 
 > With inscription: [い]
 > ::item[Two of Spades]{id=1 asset_type=card rarity=uncommon lang=en}
@@ -59,9 +65,9 @@ So, there exists 54 different versions __Two of Spades__, here are 2 of them:
 #### From Purchasing
 It's possible to obtain a single random Non-Primal Card from a lootbox on this website. Or it's possible to find a seconded hand one on Opensea.io
 
-[Portal to the Lootbox Page](/temple/?lang=en&tab=1) (Must Install Metamask)
+[Link to the Lootbox Page](/temple/?lang=en&tab=1) (Must Install Metamask)
 
-[Portal to the Opensea Page]() (Must Install Metamask)
+[Link to the Opensea Page](opensea) (Must Install Metamask)
 
 #### From Crafting 
 It's also possible to get one card from a [Card Forger](/wiki/?slug=classes&lang=en#forger). A [Forger](/wiki/?slug=classes&lang=en#forger) will help to __Forge__ a Non-Primal Card with 1 [Primals](/wiki/?slug=/collectables/primals&lang=en) of the same rarity.
