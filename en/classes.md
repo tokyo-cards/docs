@@ -64,7 +64,7 @@ Upon upgrading, an individual will obtain an artifact item to the next expertise
 
 ### Items that a Enchanter can upgrade:
 
-(Redirect): see [List of Crafting Tools](/wiki/?slug=collectables&lang=en#ist-of-crafting-tools)
+(Redirect): see [List of Crafting Tools](/wiki/?slug=collectables&lang=en#list-of-crafting-tools)
 
 ## Disenchanter 
 On the opposite, Disenchanters are holders of [[Staff of Disenchanter]](DisenchanterStaff), an Artifact Item that can only be obtained when an individual posses a __Two Pairs__ hand of cards. Upon obtaining [[Staff of Disenchanter]](DisenchanterStaff), a person will have access to __Apprentice Disenchanting__ which empowers that person to Disenchant [Non-Primals](/wiki/?slug=/collectables/non_primals&lang=en) of [Uncommon](/wiki/?slug=/collectables/rarity&lang=en#uncommon) Quality to [Primals](/wiki/?slug=/collectables/primals&lang=en).
