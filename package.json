@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "documentations of tokyo.cards",
+  "main": "index.js",
+  "repository": "git@github.com:tokyo-cards/docs.git",
+  "author": "void-anderson <anderson@diva.cards>",
+  "license": "MIT",
+  "dependencies": {
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-slug": "^5.0.1",
+    "rehype-stringify": "^9.0.3",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "unified": "^10.1.1",
+    "unist-util-visit": "^4.1.0"
+  }
+}
