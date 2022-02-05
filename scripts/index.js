@@ -21,7 +21,6 @@ const options = {
 const db = new JSONdb('./db.json');
 // eslint-disable-next-line no-unused-vars
 let AUTHOR_ID;
-const { TOKEN } = process.env;
 
 // Do something with each file
 const action = async (file) => {
@@ -51,7 +50,7 @@ const action = async (file) => {
 };
 
 const main = async () => {
-  AUTHOR_ID = await getAuthorId(TOKEN);
+  AUTHOR_ID = await getAuthorId();
   // eslint-disable-next-line no-unused-vars
   const tree = dree.scan('./', options, action);
   db.sync();

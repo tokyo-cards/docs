@@ -32,6 +32,7 @@ jobs:
 
     - name: compile
       env:
+        MEDIUM_TOKEN: ${{secrets.MEDIUM_TOKEN}} ## ※1
         IS_PR: ${{ github.EVENT_NAME == 'pull_request' }}
       run: yarn run compile
 

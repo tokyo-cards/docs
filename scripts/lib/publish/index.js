@@ -1,12 +1,12 @@
 import axios from 'axios';
 
 const publish = async (rawData, content, _db, file, AUTHOR_ID) => {
-  const { TOKEN, IS_PR } = process.env;
+  const { MEDIUM_TOKEN, IS_PR } = process.env;
   if (!IS_PR) {
     const url = `https://api.medium.com/v1/users/${AUTHOR_ID}/posts`;
     const tags = rawData.tags ? rawData.tags : [];
     const headers = {
-      Authorization: `Bearer ${TOKEN}`,
+      Authorization: `Bearer ${MEDIUM_TOKEN}`,
       'Content-Type': 'application/json',
     };
     const data = {

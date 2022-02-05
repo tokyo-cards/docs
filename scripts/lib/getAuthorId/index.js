@@ -1,8 +1,10 @@
 import axios from 'axios';
 
-const getAuthorId = async (TOKEN) => {
+const { MEDIUM_TOKEN } = process.env;
+
+const getAuthorId = async () => {
   const url = 'https://api.medium.com/v1/me';
-  const headers = { Authorization: `Bearer ${TOKEN}` };
+  const headers = { Authorization: `Bearer ${MEDIUM_TOKEN}` };
   const { data } = await axios({
     method: 'get',
     url,
