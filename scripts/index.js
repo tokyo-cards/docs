@@ -34,12 +34,12 @@ const action = async (file) => {
     } else {
       // ready to publish
       db.set(file.relativePath, { status: 'ready' });
-      await publish(data, content, db, file, AUTHOR_ID, TOKEN);
+      await publish(data, content, db, file, AUTHOR_ID);
     }
   } else {
     const entry = db.get(file.relativePath);
     if (entry.status === 'ready') {
-      await publish(data, content, db, file, AUTHOR_ID, TOKEN);
+      await publish(data, content, db, file, AUTHOR_ID);
     }
     if (file.hash !== entry.hash
       && entry.status === 'published') {

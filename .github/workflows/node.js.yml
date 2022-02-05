@@ -31,6 +31,8 @@ jobs:
       run: yarn install
 
     - name: compile
+      env:
+        IS_PR: ${{ github.EVENT_NAME == 'pull_request' }}
       run: yarn run compile
 
     - uses: stefanzweifel/git-auto-commit-action@v4
