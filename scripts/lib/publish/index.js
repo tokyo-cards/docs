@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const publish = async (rawData, content, _db, file, AUTHOR_ID) => {
   const { MEDIUM_TOKEN, IS_PR } = process.env;
-  if (!IS_PR) {
+  if (IS_PR === 'false') {
     console.log('not PR posting ...');
     const url = `https://api.medium.com/v1/users/${AUTHOR_ID}/posts`;
     const tags = rawData.tags ? rawData.tags : [];
