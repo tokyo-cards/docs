@@ -1,9 +1,10 @@
+/* eslint-disable no-console */
 import axios from 'axios';
 
 const publish = async (rawData, content, _db, file, AUTHOR_ID) => {
   const { MEDIUM_TOKEN, IS_PR } = process.env;
   if (!IS_PR) {
-    console.log('not PR posting ...')
+    console.log('not PR posting ...');
     const url = `https://api.medium.com/v1/users/${AUTHOR_ID}/posts`;
     const tags = rawData.tags ? rawData.tags : [];
     const headers = {
@@ -31,6 +32,8 @@ const publish = async (rawData, content, _db, file, AUTHOR_ID) => {
         hash: file.hash,
       });
     }
+  } else {
+    console.log('PR skip post ....');
   }
 };
 
