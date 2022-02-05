@@ -12,13 +12,12 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [12.x, 14.x, 16.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
-
     steps:
     - uses: actions/checkout@v2
+
+    - name: Inject slug/short variables
+      uses: rlespinasse/github-slug-action@v3.x
+
     - name: setup node
       uses: actions/setup-node@v2
       with:
@@ -34,3 +33,15 @@ jobs:
 
     - name: install
       run: yarn install
+
+    - name: compile
+      env:
+        MEDIUM_TOKEN: ${{secrets.MEDIUM_TOKEN}} ## ※1
+        IS_PR: ${{ env.github.GITHUB_REF_SLUG != 'main' }}
+      run: yarn run compile
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        # Optional, but recommended
+        # Defaults to "Apply automatic changes"
+        commit_message: update db 
