@@ -30,7 +30,7 @@ const getAuthorId = async () => {
   });
 };
 
-const publish = async (rawData, content) => {
+const publish = async (rawData, content, _db, key, hash) => {
   const url = `https://api.medium.com/v1/users/${AUTHOR_ID}/posts`;
   const tags = rawData.tags ? rawData.tags : [];
   const headers = {
@@ -45,12 +45,19 @@ const publish = async (rawData, content) => {
     content,
   };
 
-  return axios({
+  const res = await axios({
     method: 'post',
     url,
     headers,
     data,
   });
+
+  if ([200, 201].includes(res.status)) {
+    _db.set(key, {
+      status: 'published',
+      hash,
+    });
+  }
 };
 
 // Do something with each file
@@ -64,16 +71,13 @@ const action = async (file) => {
     } else {
       // ready to publish
       db.set(file.relativePath, { status: 'ready' });
-      const res = await publish(data, content);
-      if ([200, 201].includes(res.status)) {
-        db.set(file.relativePath, {
-          status: 'published',
-          hash: file.hash,
-        });
-      }
+      await publish(data, content, db, file.relativePath, file.hash);
     }
   } else {
     const entry = db.get(file.relativePath);
+    if (entry.status === 'ready') {
+      await publish(data, content, db, file.relativePath, file.hash);
+    }
     if (file.hash !== entry.hash
       && entry.status === 'published') {
       // mark as update
