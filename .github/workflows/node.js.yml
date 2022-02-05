@@ -35,6 +35,6 @@ jobs:
 
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-      # Optional, but recommended
-      # Defaults to "Apply automatic changes"
-      commit_message: update db 
+        # Optional, but recommended
+        # Defaults to "Apply automatic changes"
+        commit_message: update db 
