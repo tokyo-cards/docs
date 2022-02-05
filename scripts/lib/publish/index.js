@@ -17,19 +17,19 @@ const publish = async (rawData, content, _db, file, AUTHOR_ID) => {
       content,
     };
 
-    const res = await axios({
-      method: 'post',
-      url,
-      headers,
-      data,
-    });
+    // const res = await axios({
+    //   method: 'post',
+    //   url,
+    //   headers,
+    //   data,
+    // });
 
-    if ([200, 201].includes(res.status)) {
-      _db.set(file.relativePath, {
-        status: 'published',
-        hash: file.hash,
-      });
-    }
+    // if ([200, 201].includes(res.status)) {
+    //   _db.set(file.relativePath, {
+    //     status: 'published',
+    //     hash: file.hash,
+    //   });
+    // }
   }
 };
 
