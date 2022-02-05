@@ -39,7 +39,7 @@ jobs:
     - name: compile
       env:
         MEDIUM_TOKEN: ${{secrets.MEDIUM_TOKEN}} ## ※1
-        IS_PR: ${{ env.github.GITHUB_REF_SLUG != 'main' }}
+        IS_PR: ${{ env.GITHUB_REF_SLUG != 'main' }}
       run: yarn run compile
 
     - uses: stefanzweifel/git-auto-commit-action@v4
