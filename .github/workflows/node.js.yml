@@ -29,3 +29,12 @@ jobs:
 
     - name: install
       run: yarn install
+
+    - name: compile
+      run: yarn run compile
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+      # Optional, but recommended
+      # Defaults to "Apply automatic changes"
+      commit_message: update db 
