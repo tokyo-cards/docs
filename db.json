@@ -1,0 +1,50 @@
+{
+    "en/classes.md": {
+        "status": "ready"
+    },
+    "en/collectables/non_primals.md": {
+        "status": "ready"
+    },
+    "en/collectables/rarity.md": {
+        "status": "ready"
+    },
+    "en/collectables/primals.md": {
+        "status": "ready"
+    },
+    "en/collectables.md": {
+        "status": "ready"
+    },
+    "en/main.md": {
+        "status": "ready"
+    },
+    "en/markets.md": {
+        "status": "ready"
+    },
+    "en/tech_spec.md": {
+        "status": "ready"
+    },
+    "ja/classes.md": {
+        "status": "ready"
+    },
+    "ja/collectables/non_primals.md": {
+        "status": "draft"
+    },
+    "ja/collectables/primals.md": {
+        "status": "draft"
+    },
+    "ja/collectables/rarity.md": {
+        "status": "draft"
+    },
+    "ja/collectables.md": {
+        "status": "ready"
+    },
+    "ja/main.md": {
+        "status": "ready"
+    },
+    "ja/markets.md": {
+        "status": "ready"
+    },
+    "ja/tech_spec.md": {
+        "status": "ready"
+    }
+}

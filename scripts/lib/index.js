@@ -7,7 +7,7 @@ import rehypeStringify from 'rehype-stringify';
 import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
-import * as matter from 'gray-matter';
+import matter from 'gray-matter';
 import { visit } from 'unist-util-visit';
 
 function itemPlugin() {
