@@ -11,7 +11,7 @@ import { getAuthorId } from './lib/getAuthorId/index.js';
 import { publish } from './lib/publish/index.js';
 
 const options = {
-  depth: 5,
+  depth: 6,
   size: true,
   hash: true,
   exclude: /scripts|node_modules|.git/g,
