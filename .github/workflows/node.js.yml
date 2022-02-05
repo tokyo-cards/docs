@@ -14,6 +14,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
+    - name: Inject slug/short variables
+      uses: rlespinasse/github-slug-action@v3.x
+
     - name: setup node
       uses: actions/setup-node@v2
       with:
@@ -33,7 +37,7 @@ jobs:
     - name: compile
       env:
         MEDIUM_TOKEN: ${{secrets.MEDIUM_TOKEN}} ## ※1
-        IS_PR: ${{ github.EVENT_NAME == 'pull_request' }}
+        IS_PR: ${{ env.github.GITHUB_REF_SLUG != 'main' }}
       run: yarn run compile
 
     - uses: stefanzweifel/git-auto-commit-action@v4
