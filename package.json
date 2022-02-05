@@ -1,0 +1,32 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "documentations of tokyo.cards",
+  "repository": "git@github.com:tokyo-cards/docs.git",
+  "author": "void-anderson <anderson@diva.cards>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "compile": "node scripts/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dree": "^3.3.4",
+    "gray-matter": "^4.0.3",
+    "rehype-autolink-headings": "^6.1.1",
+    "rehype-slug": "^5.0.1",
+    "rehype-stringify": "^9.0.3",
+    "remark-directive": "^2.0.1",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "simple-json-db": "^1.2.3",
+    "unified": "^10.1.1",
+    "unist-util-visit": "^4.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
