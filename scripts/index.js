@@ -37,22 +37,26 @@ const action = async (file) => {
     }
   } else {
     const entry = db.get(file.relativePath);
-    if (entry.status === 'ready') {
-      await publish(data, content, db, file, AUTHOR_ID);
+    if (Object.keys(data).length > 0) {
+      if (entry.status === 'draft'
+        || entry.status === 'ready') {
+        entry.status = 'ready';
+        await publish(data, content, db, file, AUTHOR_ID);
+      }
     }
     if (file.hash !== entry.hash
       && entry.status === 'published') {
       // mark as update
       entry.status = 'update';
-      db.set(file.relativePath, entry);
     }
+    db.set(file.relativePath, entry);
   }
 };
 
 const main = async () => {
   AUTHOR_ID = await getAuthorId();
   // eslint-disable-next-line no-unused-vars
-  const tree = dree.scan('./', options, action);
+  const tree = await dree.scanAsync('./', options, action);
   db.sync();
 };
 
