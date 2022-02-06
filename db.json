@@ -1,50 +1,50 @@
 {
     "en/classes.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/collectables/non_primals.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/collectables/primals.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/collectables/rarity.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/collectables.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/main.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/markets.md": {
-        "status": "ready"
+        "status": "published"
     },
     "en/tech_spec.md": {
-        "status": "ready"
+        "status": "published"
     },
     "ja/classes.md": {
-        "status": "ready"
+        "status": "published"
     },
     "ja/collectables/non_primals.md": {
         "status": "ready"
     },
     "ja/collectables/primals.md": {
-        "status": "ready"
+        "status": "published"
     },
     "ja/collectables/rarity.md": {
         "status": "draft"
     },
     "ja/collectables.md": {
-        "status": "ready"
+        "status": "published"
     },
     "ja/main.md": {
-        "status": "ready"
+        "status": "published"
     },
     "ja/markets.md": {
-        "status": "ready"
+        "status": "published"
     },
     "ja/tech_spec.md": {
-        "status": "ready"
+        "status": "published"
     }
 }

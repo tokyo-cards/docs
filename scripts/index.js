@@ -44,11 +44,6 @@ const action = async (file) => {
         await publish(data, content, db, file, AUTHOR_ID);
       }
     }
-    if (file.hash !== entry.hash
-      && entry.status === 'published') {
-      // mark as update
-      entry.status = 'update';
-    }
     db.set(file.relativePath, entry);
   }
 };
