@@ -37,15 +37,19 @@ const action = async (file) => {
     }
   } else {
     const entry = db.get(file.relativePath);
-    if (entry.status === 'ready') {
-      await publish(data, content, db, file, AUTHOR_ID);
+    if (Object.keys(data).length > 0) {
+      if (entry.status === 'draft'
+        || entry.status === 'ready') {
+        entry.status = 'ready';
+        await publish(data, content, db, file, AUTHOR_ID);
+      }
     }
     if (file.hash !== entry.hash
       && entry.status === 'published') {
       // mark as update
       entry.status = 'update';
-      db.set(file.relativePath, entry);
     }
+    db.set(file.relativePath, entry);
   }
 };
 
