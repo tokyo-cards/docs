@@ -30,7 +30,7 @@ previous:
 ---
 
 #プライマル
-Tokyo.Cards.には、16種類 __限り__ のプライマルカードがあり、4種類の色および4種類のサイズにカテゴリー分けされます。
+Tokyo.Cards.には、16種類__限り__のプライマルカードがあり、4種類の色および4種類のサイズにカテゴリー分けされます。
 プライマルカードは、[ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) カードを[ディスエンチャント](/wiki/?slug=classes&lang=ja#disenchanter)することによって__み__ 入手可能です。
 
 
