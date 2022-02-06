@@ -38,7 +38,11 @@ jobs:
 
     - name: compile
       env:
-        MEDIUM_TOKEN: ${{secrets.MEDIUM_TOKEN}} ## ※1
+        TWITTER_ACCESS_TOKEN_KEY: ${{secrets.TWITTER_ACCESS_TOKEN_KEY}} ## ※1
+        TWITTER_ACCESS_TOKEN_SECRET: ${{secrets.TWITTER_ACCESS_TOKEN_SECRET}} ## ※2
+        TWITTER_CONSUMER_KEY: ${{secrets.TWITTER_CONSUMER_KEY}} ## ※3
+        TWITTER_CONSUMER_SECRET: ${{secrets.TWITTER_CONSUMER_SECRET}} ## ※4
+        MEDIUM_TOKEN: ${{secrets.MEDIUM_TOKEN}} ## ※5
         IS_PR: ${{ env.GITHUB_REF_SLUG != 'main' }}
       run: yarn run compile
 
