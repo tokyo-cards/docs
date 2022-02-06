@@ -52,7 +52,7 @@ const action = async (file) => {
 const main = async () => {
   AUTHOR_ID = await getAuthorId();
   // eslint-disable-next-line no-unused-vars
-  const tree = dree.scan('./', options, action);
+  const tree = await dree.scan('./', options, action);
   db.sync();
 };
 
