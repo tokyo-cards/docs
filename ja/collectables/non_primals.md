@@ -20,7 +20,7 @@ toc:
     slug: markets
   - name: テクカルスペック
     slug: tech_spec
-next: 					次：
+next:
   name: 希少性
   slug: /collectables/rarity
 previous:
