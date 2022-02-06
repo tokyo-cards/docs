@@ -34,20 +34,20 @@ Tokyo.Cards.には、16種類 __限り__ のプライマルカードがあり、
 プライマルカードは、[ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) カードを[ディスエンチャント](/wiki/?slug=classes&lang=ja#disenchanter)することによって__み__ 入手可能です。
 
 
-## The Colors Of the Primal Cards　##プライマルカードの色
+## プライマルカードの色
 プライマルカードの色は、[ディスエンチャント] (/wiki/?slug=classes&lang=en#disenchanter)元の [ノンプライマル] (/wiki/?slug=/collectables/non_primals&lang=en)カードの__ハウス__によって決定されます。
 
-Primal Cards have the following colors: プライマルカードには以下の色があります：
+プライマルカードには以下の色があります：
 1. 赤 - ハートのハウス
 2. ライム - クラブのハウス
 3. 紫 - ダイヤのハウス
 4. ピンクグレー - スペードのハウス
 
-## The Sizes and rarities Of the Primal Cards　　##プライマルカードのサイズと希少性
+## プライマルカードのサイズと希少性
 プライマルカードのサイズは、[ディスエンチャント] (/wiki/?slug=classes&lang=en#disenchanter)元の [ノンプライマル]　(/wiki/?slug=classes&lang=ja#disenchanter)カードの__希少性__ によって決定されます。
 
 
-Primal Cards have the following sizes:　プライマルカードのサイズは以下の通り：
+プライマルカードのサイズは以下の通り：
 1. [モート] (#the-motes) – [やや珍しい](/wiki/?slug=/collectables/rarity&lang=en#uncommon) ノンプライマルカードより
 
 2. [シャード](#the-shards) -  [レア](/wiki/?slug=/collectables/rarity&lang=en#rare) ノンプライマルカードより
