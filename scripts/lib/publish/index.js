@@ -37,11 +37,14 @@ const publish = async (rawData, content, _db, file, AUTHOR_ID) => {
 
     if ([200, 201].includes(res.status)) {
       const { respUrl } = res.data;
-      const tweet = await client.post(
-        'statuses/update',
-        { status: `We have posted a new article on Medium, check it out ! ${respUrl}` },
-      );
-      console.log(tweet);
+      try {
+        await client.post(
+          'statuses/update',
+          { status: `We have posted a new article on Medium, check it out ! ${respUrl}` },
+        );
+      } catch (e) {
+        console.log(e);
+      }
       _db.set(file.relativePath, {
         status: 'published',
         hash: file.hash,
