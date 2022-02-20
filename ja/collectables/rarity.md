@@ -5,14 +5,14 @@ slug: /collectables/rarity
 toc:
   - name: はじめに
     slug: main
-  - name: 収集品
+  - name: コレクタブル
     slug: collectables
     children:
       - name: プライマル
         slug: /collectables/primals
       - name: ノンプライマル
         slug: /collectables/non_primals
-      - name: 希少性
+      - name: レアリティ
         slug: /collectables/rarity
   - name: クラス
     slug: classes
@@ -25,20 +25,20 @@ previous:
   slug: /collectables/non_primals
 ---
 
-# Rarity　#希少性
-Tokyo.Cardsの希少性レベルは以下の通りです。
+# Rarity　#レアリティ
+Tokyo.Cardsのレアリティは以下の通りです。
 
-- [普通] (#common)
-- [やや珍しい] (#uncommon)	
+- [コモン] (#common)
+- [アンコモン] (#uncommon)	
 - [レア] (#rare)
-- [激レア] (#epic)	
-- [レジェンド] (#legendary)
+- [エピック] (#epic)	
+- [レジェンダリー] (#legendary)
 
-## Common　##普通
+## Common　##コモン
 通常はクラフトに使用する材料で、カードには使わないものです。
 普通カードは白色で表示されます。
 
-## Uncommon　##やや珍しい
+## Uncommon　##アンコモン
 実は、最もよく見られる希少性レベルです。
 
 ノンプライマルカードでは、以下の数字のカードはすべて、この希少レベルに属します：
@@ -46,7 +46,7 @@ __2__, __3__, __4__, __5__, __6__, __7__, __8__, __9__, __10__
 
 例）
 
->::アイテム[スペードの2] {id=1 asset_type=card rarity=uncommon lang=en}は、「やや珍しい」カードです。やや珍しいカードは、緑色で表示されます。
+>::アイテム[スペードの2] {id=1 asset_type=card rarity=uncommon lang=en}は、「アンコモン」カードです。やや珍しいカードは、緑色で表示されます。
 
 ## レア
 以下のノンプライマルカードはすべて、この希少性レベルに属します。
@@ -59,8 +59,8 @@ __ジャック__, __クイーン__, __キング__
 
 
 
-## 激レア
-＿エース＿のみが、ノンプライマルカードのうち「激レア」カードとなります。
+## エピック
+＿エース＿のみが、ノンプライマルカードのうち「エピック」カードとなります。
 
 例）
 >::アイテム[ハートのエース] {id=2742 asset_type=card rarity=epic lang=en}は、「激レア」カードです。激レアカードは、紫色で表示されます。
