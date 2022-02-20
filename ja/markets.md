@@ -4,7 +4,7 @@ slug: markets
 toc:
   - name: 初めに 
     slug: main 
-  - name: コレクション 
+  - name: コレクタブル
     slug: collectables 
   - name: 職業クラス 
     slug: classes 
@@ -36,7 +36,7 @@ previous:
 
 通常はセカンダリーマーケットでは初回販売より高くなることが予想されます。
 
-> __ご留意:__ ガチャは __Polygon__ ブロックチェインのクリプトご入手いただけます。
+> __ご留意:__ ガチャは __Polygon__ ブロックチェーンのクリプトご入手いただけます。
 
 
 ### Adam by GMO
@@ -53,6 +53,6 @@ Adam.jpは東京一部上場の会社[GMO](https://www.gmo.jp/en/)の傘下に�
 1. Opensea (Opensea.io)
 2. Adam by GMO (Adam.jp)
 
-Openseaは暗号通貨のみ扱うブロックチェンに存在し、KYC不要な自由のマーケットです。
+Openseaは暗号通貨のみ扱うブロックチェーンに存在し、KYC不要な自由のマーケットです。
 
-Adam by GMOはKYC認証の前提で、法定通貨と暗号通貨と両方も対応できるマーケットです。 
+Adam by GMOはKYC認証（本人確認）の前提で、法定通貨と暗号通貨と両方も対応できるマーケットです。 
