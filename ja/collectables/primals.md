@@ -5,14 +5,14 @@ slug: /collectables/primals
 toc:
   - name: はじめに
     slug: main
-  - name: 収集品
+  - name: コレクタブル
     slug: collectables
     children:
       - name: プライマル
         slug: /collectables/primals
       - name: ノンプライマル
         slug: /collectables/non_primals
-      - name: 希少性
+      - name: レアリティ
         slug: /collectables/rarity
   - name: クラス
     slug: classes
@@ -25,34 +25,34 @@ next:
   name: ノンプライマル
   slug: /collectables/non_primals
 previous:
-  name: 収集品
+  name: コレクタブル
   slug: collectables
 ---
 
 #プライマル
 Tokyo.Cards.には、16種類__限り__のプライマルカードがあり、4種類の色および4種類のサイズにカテゴリー分けされます。
-プライマルカードは、[ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) カードを[ディスエンチャント](/wiki/?slug=classes&lang=ja#disenchanter)することによって__み__ 入手可能です。
+プライマルカードは、[ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) カードを[分解](/wiki/?slug=classes&lang=ja#disenchanter)することによって__のみ__ 入手可能です。
 
 
 ## プライマルカードの色
-プライマルカードの色は、[ディスエンチャント] (/wiki/?slug=classes&lang=en#disenchanter)元の [ノンプライマル] (/wiki/?slug=/collectables/non_primals&lang=en)カードの__ハウス__によって決定されます。
+プライマルカードの色は、[分解能力者] (/wiki/?slug=classes&lang=en#disenchanter)元の [ノンプライマル] (/wiki/?slug=/collectables/non_primals&lang=en)カードの__ハウス__によって決定されます。
 
 プライマルカードには以下の色があります：
-1. 赤 - ハートのハウス
-2. ライム - クラブのハウス
-3. 紫 - ダイヤのハウス
-4. ピンクグレー - スペードのハウス
+1. 赤 - ハートの絵柄
+2. ライム - クラブの絵柄
+3. 紫 - ダイヤの絵柄
+4. ピンクグレー - スペードの絵柄
 
 ## プライマルカードのサイズと希少性
-プライマルカードのサイズは、[ディスエンチャント] (/wiki/?slug=classes&lang=en#disenchanter)元の [ノンプライマル]　(/wiki/?slug=classes&lang=ja#disenchanter)カードの__希少性__ によって決定されます。
+プライマルカードのサイズは、[ディスエンチャント] (/wiki/?slug=classes&lang=en#disenchanter)元の [ノンプライマル]　(/wiki/?slug=classes&lang=ja#disenchanter)カードの__レアリティ__ によって決定されます。
 
 
 プライマルカードのサイズは以下の通り：
-1. [モート] (#the-motes) – [やや珍しい](/wiki/?slug=/collectables/rarity&lang=en#uncommon) ノンプライマルカードより
+1. [モート] (#the-motes) – [アンコモン](/wiki/?slug=/collectables/rarity&lang=en#uncommon) ノンプライマルカードより
 
 2. [シャード](#the-shards) -  [レア](/wiki/?slug=/collectables/rarity&lang=en#rare) ノンプライマルカードより
 
-3. [コア](#the-cores) - [激レア](/wiki/?slug=/collectables/rarity&lang=en#epic) ノンプライマルカードより
+3. [コア](#the-cores) - [エプック](/wiki/?slug=/collectables/rarity&lang=en#epic) ノンプライマルカードより
 
 4. [オーブ](#the-orbs) - [レジェンド](/wiki/?slug=/collectables/rarity&lang=en#legendary) ノンプライマルカードより
 
@@ -61,7 +61,7 @@ Tokyo.Cards.には、16種類__限り__のプライマルカードがあり、4�
 
 > プライマルカード
 > ::item[Arcane Iordium Mote]{id=2916 asset_type=card rarity=uncommon lang=en} 
-> ::アイテム[ピンクグレー ロディウム モート]{id=2916 asset_type=card rarity=uncommon lang=en} は、ノンプライマルカードを[ディスエンチャント] (/wiki/?slug=classes&lang=en#disenchanter)することで＿得る＿ことが＿できます＿。
+> ::アイテム[ピンクグレー ロディウム モート]{id=2916 asset_type=card rarity=uncommon lang=en} は、ノンプライマルカードを[分解] (/wiki/?slug=classes&lang=en#disenchanter)することで＿得る＿ことが＿できます＿。
 
 > ::アイテム[スペードの2]{id=1 asset_type=card rarity=uncommon lang=en}
 
@@ -77,26 +77,26 @@ For Example:　例）
 ## プライマルカードのリスト
 
 ### モート　
-- ::アイテム[ピンクグレー ロディウム モート]{id=2916 asset_type=card rarity=uncommon lang=en} 
-- ::アイテム[紫 ロディウム モート]{id=2917 asset_type=card rarity=uncommon lang=en} 
-- ::アイテム[ライム ロディウム モート]{id=2918 asset_type=card rarity=uncommon lang=en} 
-- ::アイテム[赤 ロディウム モート]{id=2919 asset_type=card rarity=uncommon lang=en} 
+- ::アイテム[ピンクグレー ロディウム アンコモン]{id=2916 asset_type=card rarity=uncommon lang=en} 
+- ::アイテム[紫 ロディウム アンコモン]{id=2917 asset_type=card rarity=uncommon lang=en} 
+- ::アイテム[ライム ロディウム アンコモン]{id=2918 asset_type=card rarity=uncommon lang=en} 
+- ::アイテム[赤 ロディウム アンコモン]{id=2919 asset_type=card rarity=uncommon lang=en} 
 
 ### シャード　
-- ::アイテム[ピンクグレー ロディウム シャード]{id=2920 asset_type=card rarity=rare lang=en} 
-- ::アイテム[紫 ロディウム シャード]{id=2921 asset_type=card rarity=rare lang=en} 
-- ::アイテム[ライム ロディウム シャード]{id=2922 asset_type=card rarity=rare lang=en} 
-- ::アイテム[赤 ロディウム シャード]{id=2923 asset_type=card rarity=rare lang=en} 
+- ::アイテム[ピンクグレー ロディウム レア]{id=2920 asset_type=card rarity=rare lang=en} 
+- ::アイテム[紫 ロディウム レア]{id=2921 asset_type=card rarity=rare lang=en} 
+- ::アイテム[ライム ロディウム レア]{id=2922 asset_type=card rarity=rare lang=en} 
+- ::アイテム[赤 ロディウム レア]{id=2923 asset_type=card rarity=rare lang=en} 
 
 ### コア
-- ::アイテム[ピンクグレー ロディウム コア]{id=2924 asset_type=card rarity=epic lang=en} 
-- ::アイテム[紫 ロディウム コア]{id=2925 asset_type=card rarity=epic lang=en} 
-- ::アイテム[ライム ロディウム コア]{id=2926 asset_type=card rarity=epic lang=en} 
-- ::アイテム[赤 ロディウム コア]{id=2927 asset_type=card rarity=epic lang=en} 
+- ::アイテム[ピンクグレー ロディウム エピック]{id=2924 asset_type=card rarity=epic lang=en} 
+- ::アイテム[紫 ロディウム エピック]{id=2925 asset_type=card rarity=epic lang=en} 
+- ::アイテム[ライム ロディウム エピック]{id=2926 asset_type=card rarity=epic lang=en} 
+- ::アイテム[赤 ロディウム エピック]{id=2927 asset_type=card rarity=epic lang=en} 
 
 ### オーブ
-- ::アイテム[ピンクグレー ロディウム オーブ]{id=2928 asset_type=card rarity=legendary lang=en} 
-- ::アイテム[紫ロディウムオーブ]{id=2929 asset_type=card rarity=legendary lang=en} 
-- ::アイテム[ライム ロディウム オーブ]{id=2930 asset_type=card rarity=legendary lang=en} 
-- ::アイテム[赤 ロディウム オーブ]{id=2931 asset_type=card rarity=legendary lang=en}
+- ::アイテム[ピンクグレー ロディウム レジェンダリー]{id=2928 asset_type=card rarity=legendary lang=en} 
+- ::アイテム[紫 ロディウム レジェンダリー]{id=2929 asset_type=card rarity=legendary lang=en} 
+- ::アイテム[ライム ロディウム レジェンダリー]{id=2930 asset_type=card rarity=legendary lang=en} 
+- ::アイテム[赤 ロディウム レジェンダリー]{id=2931 asset_type=card rarity=legendary lang=en}
 ニ
