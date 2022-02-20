@@ -4,7 +4,7 @@ slug: main
 toc:
   - name: 初めに 
     slug: main 
-  - name: コレクション 
+  - name: コレクタブル
     slug: collectables 
   - name: 職業クラス 
     slug: classes 
@@ -13,7 +13,7 @@ toc:
   - name: 技術仕様 
     slug: tech_spec 
 next: 
-   name: コレクション
+   name: コレクタブル
    slug: collectables 
 ---
 

@@ -4,7 +4,7 @@ slug: tech_spec
 toc:
   - name: 初めに 
     slug: main 
-  - name: コレクション 
+  - name: コレクタブル 
     slug: collectables 
   - name: 職業クラス 
     slug: classes 
@@ -21,7 +21,7 @@ previous:
 NFTの技術仕様をご紹介いたします。
 
 ## ブロックチェインネットワークとコントラクト
-Tokyo.Cards は下記のアドレスにて __Ethereum__ ・ __Polygon__ ・ __Binance Smart Chain__ といったブロックチェインに存在しています。
+Tokyo.Cards は下記のアドレスにて __Ethereum__ ・ __Polygon__ ・ __Binance Smart Chain__ といったブロックチェーンに存在しています。
 
 ```
 - Ethereum (1155): 0xf8ceca438577a00b415b1d4b412a910bf2e41bea
@@ -41,4 +41,4 @@ Adam.jpは独自のスマートコントラクトが存在しています。
 
 Tokyo.Cardsでは、Polygonネットワークの取引コストがEthereum Mainnetより低く決済できることから、主にPolygonネットワークで行うことといたしました。
 
-今後、SolanaネットワークやEVM対応Polkadotサイドチェインのソリューション活用も視野に入れます。
+今後、SolanaネットワークやEVM対応Polkadotサイドチェインのソリューション活用も視野に入れております。
