@@ -45,11 +45,11 @@ __X__ は世の中にあらゆる可能性を意味しており、数学関数 _
 ## カード
 __(X)³™__ コレクションは [プライマル](/wiki/?slug=/collectables/primals&lang=ja) と [ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) と __２種類__ のカードがあります。
 
-この２種類のカードは [エンチャンティング（魔法かけ）](/wiki/?slug=classes&lang=ja#enchanter)や [ディスエンチャンティング（魔法とけ）](/wiki/?slug=classes&lang=ja#disenchanter)で相互変換可能です。
+この２種類のカードは [エンチャンティング（魔法使い）](/wiki/?slug=classes&lang=ja#enchanter)や [ディスエンチャンティング（分解能力者）](/wiki/?slug=classes&lang=ja#disenchanter)で相互変換可能です。
 
 [ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) カードは常に一定のテーマ（写真家、音楽家、またはいずれの芸術品）が用いられ、初回販売イベントで入手可能です。
 
-[プライマル](/wiki/?slug=/collectables/primals&lang=ja) カードはノンプライマルカードを [ディスエンチャンティング（魔法とけ）](/wiki/?slug=classes&lang=ja#disenchanter) することでしか入手できません。
+[プライマル](/wiki/?slug=/collectables/primals&lang=ja) カードはノンプライマルカードを [ディスエンチャンティング（分解能力者）](/wiki/?slug=classes&lang=ja#disenchanter) することでしか入手できません。
 
 
 Tokyo.Cards のカードコレクションは、[コレクション](/collections/?lang=ja) ページで一覧できます。
@@ -61,7 +61,7 @@ Tokyo.Cards のカードコレクションは、[コレクション](/collection
 詳細は、[プライマル](/wiki/?slug=/collectables/primals&lang=ja) と [ノンプライマル](/wiki/?slug=/collectables/non_primals&lang=ja) までご参照ください。
 
 ## クラフト道具
-クラフト道具[鍛造](/wiki/?slug=classes&lang=ja#forger). によって入手可能な道具です。それらの道具は、[エンチャンティング（魔法かけ）](/wiki/?slug=classes&lang=ja#enchanter)、[鍛造](/wiki/?slug=classes&lang=ja#forger)、[ディスエンチャンティング（魔法とけ）](/wiki/?slug=classes&lang=ja#disenchanter) などの __工作スキル__ を個人に与える。
+クラフト道具[鍛造](/wiki/?slug=classes&lang=ja#forger). によって入手可能な道具です。それらの道具は、[エンチャンティング（魔法使い）](/wiki/?slug=classes&lang=ja#enchanter)、[鍛造](/wiki/?slug=classes&lang=ja#forger)、[ディスエンチャンティング（分解能力）](/wiki/?slug=classes&lang=ja#disenchanter) などの __工作スキル__ を個人に与える。
 
 ### クラフト道具一覧
 
