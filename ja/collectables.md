@@ -1,10 +1,10 @@
 ---
-title: コレクション
+title: コレクタブル
 slug: collectables
 toc:
   - name: 初めに 
     slug: main 
-  - name: コレクション 
+  - name: コレクタブル 
     slug: collectables 
   - name: 職業クラス 
     slug: classes 
